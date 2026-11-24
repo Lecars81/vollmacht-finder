@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vollmacht-Finder</title>
+<style>
+/* VOICE: reduziert, monochrom, ruhig – Toyota Visual Identity 2026
+   IDEA: Arbeitswerkzeug am Zulassungstresen im Händler-Layout
+   PICTURE: das Werkzeug selbst: große PLZ-Eingabe, Ergebnis-Karte
+   COLOUR and TYPE: Signature Grey #282830, White, Greys 1–6; Signature Red #FF0022 nur als Akzentbalken und Links; Toyota Type Light/Book/Regular
+   LAYOUT: Ellipse oben links (Rand 85 % der Logohöhe), Händlername rechts mittig dazu, roter Balken an der Oberkante (≤ 50 %), roter Text-Anker über der Headline */
+@font-face{font-family:"Toyota Type";src:url(fonts/ToyotaType-Light.woff2) format("woff2");font-weight:300;font-display:swap}
+@font-face{font-family:"Toyota Type";src:url(fonts/ToyotaType-Book.woff2) format("woff2");font-weight:350;font-display:swap}
+@font-face{font-family:"Toyota Type";src:url(fonts/ToyotaType-Regular.woff2) format("woff2");font-weight:400;font-display:swap}
+@font-face{font-family:"Toyota Type";src:url(fonts/ToyotaType-Semibold.woff2) format("woff2");font-weight:600;font-display:swap}
+:root{color-scheme:light dark;--grey:#282830;--red:#FF0022;--bg:light-dark(#FFFFFF,#282830);--ink:light-dark(#282830,#FFFFFF);--mut:light-dark(#6A6B70,#ADADB0);--line:light-dark(#CECFD0,#6A6B70);--card:light-dark(#EFF0F0,#494950);--field:light-dark(#FFFFFF,#282830);--btn:light-dark(#282830,#FFFFFF);--btnink:light-dark(#FFFFFF,#282830);--link:light-dark(#FF0022,#FFFFFF)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;background:var(--bg);color:var(--ink);font:350 16px/1.4 "Toyota Type",system-ui,sans-serif;overflow-x:clip}
+.top{position:relative;max-width:820px;margin:auto;padding:31px max(31px,5vw) 0;display:flex;align-items:center;justify-content:space-between;gap:16px}
+.top::before{content:"";position:absolute;top:0;right:0;width:40%;height:6px;background:var(--red)}
+.top img{height:36px;width:auto;display:block}.lw{display:none!important}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]) .lg{display:none!important}:root:not([data-theme=light]) .lw{display:block!important}}
+:root[data-theme=dark] .lg{display:none!important}:root[data-theme=dark] .lw{display:block!important}
+.dealer{text-align:right;font-weight:600;font-size:15px;line-height:1.2}.dealer span{display:block;font-weight:350;font-size:13px;color:var(--mut)}
+main{max-width:820px;margin:auto;padding:clamp(36px,6vw,64px) max(31px,5vw) 64px}
+.anchor{width:56px;height:5px;background:var(--red);margin-bottom:16px}
+h1{font-weight:300;font-size:clamp(30px,6vw,46px);line-height:1;letter-spacing:.01em;text-transform:uppercase;margin:0 0 12px}
+.sub{font-weight:400;font-size:clamp(18px,3vw,22px);line-height:1.2;margin:0 0 8px}
+.lead{color:var(--mut);margin:0 0 28px;line-height:1.4}
+.plz{display:flex}
+.plz input{flex:1 1 220px;font:300 clamp(40px,9vw,60px)/1 "Toyota Type",sans-serif;letter-spacing:.08em;padding:16px 18px;border:1px solid var(--line);border-bottom:2px solid var(--ink);border-radius:0;background:var(--field);color:var(--ink)}
+input,select,textarea,button{font-family:inherit;font-size:16px}
+input:focus,select:focus,textarea:focus,button:focus-visible,a:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+.hint{font-size:14px;color:var(--mut);margin-top:8px}
+.card{background:var(--card);padding:24px;margin-top:28px}
+.card h2{font-weight:400;font-size:24px;line-height:1.2;margin:4px 0 4px}
+.tag{font-weight:400;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--mut)}
+.st{display:flex;gap:12px;align-items:flex-start;margin:18px 0;padding:14px 16px;background:var(--field)}
+.dot{width:12px;height:12px;border-radius:50%;flex:none;margin-top:5px;border:2px solid var(--mut)}
+.dot.ok{background:var(--ink);border-color:var(--ink)}
+.st b{font-weight:600}
+.btns{display:flex;gap:10px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:0 22px;border:1px solid var(--btn);background:var(--btn);color:var(--btnink);font-weight:400;font-size:15px;text-decoration:none;cursor:pointer;border-radius:0}
+.btn.o{background:transparent;color:var(--ink);border-color:var(--line)}
+.ch{display:flex;flex-direction:column;gap:8px;margin-top:14px}
+.ch button{text-align:left;min-height:46px;padding:10px 14px;border:1px solid var(--line);background:var(--field);color:var(--ink);cursor:pointer;font-size:15px}
+.ch button b{display:block;font-weight:600}
+.more{background:none;border:0;padding:0;margin-top:16px;min-height:32px;color:var(--mut);font-size:14px;text-decoration:underline;cursor:pointer}
+.warn{margin:0 0 16px;padding:14px 16px;border-left:4px solid var(--red);background:var(--field)}
+.warn b{font-weight:600}
+.chk{margin:-6px 0 16px}
+.card h2+.warn{margin-top:16px}
+.links{display:flex;gap:18px;flex-wrap:wrap}
+.ch button .take{display:inline-block;margin-top:6px;font-size:14px;text-decoration:underline}
+.ch button .sm{display:block;overflow-wrap:anywhere}
+.save[hidden]{display:none}.save{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.save input{flex:1 1 240px;min-height:46px;padding:0 12px;border:1px solid var(--line);border-radius:0;background:var(--field);color:var(--ink)}
+h3{font-weight:300;font-size:22px;letter-spacing:.01em;text-transform:uppercase;margin:44px 0 8px}
+table{width:100%;border-collapse:collapse;font-size:15px}td,th{padding:10px 6px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{font-weight:400;color:var(--mut);font-size:13px;text-transform:uppercase;letter-spacing:.06em}
+td a{color:var(--link);overflow-wrap:anywhere}
+.x{background:none;border:0;color:var(--mut);cursor:pointer;min-width:44px;min-height:36px;font-size:18px}
+.sm{font-size:13px;color:var(--mut);line-height:1.4}
+textarea{border-radius:0!important}
+.toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:var(--btn);color:var(--btnink);padding:10px 16px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.on{opacity:1}
+@media(prefers-reduced-motion:reduce){.toast{transition:none}}
+@media(max-width:600px){.top{padding-top:28px}.top img{height:32px}table{font-size:13px}.stack thead{display:none}.stack tr{display:grid;padding-block:10px}.stack td{display:flow-root;border:0;padding:3px 0;padding-inline-start:8em;text-align:start}.stack td::before{content:attr(data-l);float:inline-start;width:7.5em;margin-inline-start:-8em;white-space:normal}.stack td:empty{display:none}}
+</style><script>new MutationObserver(()=>{for(const c of document.querySelectorAll('.stack td:not([data-l])')){let i=0,p=c;while(p=p.previousElementSibling)i+=p.colSpan;c.dataset.l=c.closest('table').rows[0].cells[i]?.textContent||''}}).observe(document,{childList:true,subtree:true})</script></head>
+<body>
+<header class="top">
+ <div><img class="lg" src="logo-grey.png" alt="Toyota"><img class="lw" src="logo-white.png" alt="Toyota"></div>
+ <div class="dealer">Autohaus Kalla<span>Strausberg · Fürstenwalde</span></div>
+</header>
+<main>
+<div class="anchor"></div>
+<h1>Vollmacht-Finder</h1>
+<p class="sub">Welche Vollmacht braucht die Zulassungsstelle?</p>
+<p class="lead">Postleitzahl des künftigen Halters eingeben – die App ermittelt den zuständigen Kreis und zeigt das Formular der Behörde.</p>
+<div class="plz"><input id="plz" inputmode="numeric" maxlength="5" autocomplete="off" placeholder="15344" aria-label="Postleitzahl"></div>
+<div class="hint" id="hint">5-stellige PLZ eingeben</div>
+
+<div id="out"></div>
+
+<p class="sm" id="acct" style="margin-top:56px"></p>
+<p class="sm" style="margin-top:8px">PLZ-Zuordnung aus einem offenen Datensatz (zauberware/postal-codes), kann nach Gebietsreformen veraltet sein. Hinterlegt sind nur offizielle Formulare der Behörden. Alle Links werden jede Nacht automatisch geprüft. Fehler oder fehlende Formulare bitte über „melden“ mitteilen.</p>
+</main>
+<div class="toast" id="toast"></div>
+
+<script src="config.js"></script>
+<script type="module">
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let PRESET={},DB=null,cur=null,B=null;
+const toast=m=>{const t=$('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),2600)};
+const nice=n=>n.replace(/^Kreisfreie Stadt /,'Stadt ').replace(/, Stadt$/,'');
+const day=s=>{if(!s)return'';const d=new Date(String(s).replace(' ','T'));return isNaN(d)?s:d.toLocaleDateString('de-DE')};
+
+/* Status der nächtlichen Prüfung zum Link mischen (wie auf dem NAS) */
+function mergeStatus(base,own,status){
+ const out={};
+ for(const [k,v] of Object.entries(base))out[k]={...v};
+ for(const [k,v] of Object.entries(own)){if(v&&v.url)out[k]={url:v.url,note:v.note||'',eigen:1}}
+ for(const [k,e] of Object.entries(out)){
+  const st=status[k];
+  if(st&&st.url===e.url){const p={};for(const x of['state','checked','changed','error','candidates'])if(st[x])p[x]=st[x];e.pruefung=p}
+  else if(st&&st.candidates)e.pruefung={candidates:st.candidates};
+ }
+ return out;
+}
+
+/* ---------- Drei Betriebsarten: Firebase, NAS-Server, nur Browser ---------- */
+async function firebaseBackend(cfg){
+ const fb=await import('./fb.js');
+ const app=fb.initializeApp(cfg),db=fb.getFirestore(app),auth=fb.getAuth(app);
+ let user=null;const ready=new Promise(r=>fb.onAuthStateChanged(auth,u=>{user=u;showAcct();r()}));
+ const base=await fetch('links.json').then(r=>r.json());
+ async function login(){
+  if(user)return user;
+  const prov=new fb.GoogleAuthProvider();prov.setCustomParameters({prompt:'select_account'});
+  const r=await fb.signInWithPopup(auth,prov);return r.user;
+ }
+ function showAcct(){
+  const el=$('acct');if(!el)return;
+  el.innerHTML=user?'Angemeldet als '+esc(user.email)+' · <button class="more" id="lo">Abmelden</button>':'Zum Speichern von Links mit dem Firmen-Konto anmelden: <button class="more" id="li">Anmelden</button>';
+ }
+ document.addEventListener('click',e=>{if(e.target.id==='lo')fb.signOut(auth).then(()=>toast('Abgemeldet'));if(e.target.id==='li')login().catch(err)});
+ function err(e){const c=String(e&&e.code||e&&e.message||e);
+  if(/permission/i.test(c))toast('Keine Berechtigung – bitte mit der Firmen-Mail anmelden');
+  else if(/popup-closed|cancelled/i.test(c))toast('Anmeldung abgebrochen');
+  else toast('Fehler: '+c)}
+ return {
+  shared:true,
+  async load(){
+   await ready;
+   const [own,st]=await Promise.all([
+    fb.getDocs(fb.collection(db,'links')).then(q=>{const o={};q.forEach(d=>o[d.id]=d.data());return o}),
+    fb.getDoc(fb.doc(db,'pruefung','stand')).then(d=>d.exists()?(d.data().kreise||{}):{}).catch(()=>({}))
+   ]);
+   PRESET=mergeStatus(base,own,st);
+  },
+  async save(key,url,note){const u=await login();await fb.setDoc(fb.doc(db,'links',key),{url,note:note||'',von:u.email,gespeichert:fb.serverTimestamp()})},
+  async reset(key){await login();await fb.deleteDoc(fb.doc(db,'links',key))},
+  err
+ };
+}
+function nasBackend(){
+ const post=(p,d)=>fetch(p,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(d)}).then(r=>r.json().then(j=>{if(!r.ok)throw new Error(j.fehler||'Fehler');return j}));
+ return {shared:true,copies:true,
+  async load(){PRESET=await fetch('api/links',{cache:'no-store'}).then(r=>r.json())},
+  save:(key,url,note)=>note?post('api/vorschlag',{key,url}):post('api/link',{key,url}),
+  reset:key=>post('api/zuruecksetzen',{key}),
+  err:e=>toast(e.message||String(e))};
+}
+function meldenBackend(cfg){
+ return {melden:true,meldenAn:cfg.meldenAn||'',
+  async load(){
+   const [base,st]=await Promise.all([fetch('links.json',{cache:'no-cache'}).then(r=>r.json()),
+    fetch('status.json',{cache:'no-cache'}).then(r=>r.json()).catch(()=>({}))]);
+   PRESET=mergeStatus(base,{},st.kreise||{});
+  }};
+}
+function localBackend(){
+ let own={};try{own=JSON.parse(localStorage.getItem('vf-links')||'{}')}catch(e){}
+ const store=()=>{try{localStorage.setItem('vf-links',JSON.stringify(own))}catch(e){}};
+ let base={};
+ return {shared:false,
+  async load(){if(!Object.keys(base).length)base=await fetch('links.json').then(r=>r.json()).catch(()=>({}));PRESET=mergeStatus(base,own,{})},
+  async save(key,url){own[key]={url};store()},
+  async reset(key){delete own[key];store()},
+  err:e=>toast(String(e))};
+}
+async function pickBackend(){
+ if(window.VF&&window.VF.modus==='melden')return meldenBackend(window.VF);
+ if(window.FB_CONFIG&&window.FB_CONFIG.apiKey){try{return await firebaseBackend(window.FB_CONFIG)}catch(e){console.error(e)}}
+ try{const r=await fetch('api/links',{cache:'no-store'});if(r.ok&&/json/.test(r.headers.get('content-type')||''))return nasBackend()}catch(e){}
+ return localBackend();
+}
+
+/* ---------- Oberfläche ---------- */
+function look(){
+ const z=$('plz').value.replace(/\D/g,'');$('plz').value=z;
+ if(z.length<5){$('out').innerHTML='';$('hint').textContent='5-stellige PLZ eingeben';return}
+ if(!DB||!B){$('hint').textContent='Daten werden geladen …';return}
+ const v=DB.p[z];
+ if(!v){$('hint').textContent='';$('out').innerHTML='<div class="card"><h2>PLZ '+z+' nicht gefunden</h2><p class="sm">Bitte PLZ prüfen. Postfach- und Großkunden-PLZ sind im Datensatz nicht enthalten.</p></div>';return}
+ $('hint').textContent='';
+ if(typeof v==='string')return show(v,z);
+ $('out').innerHTML='<div class="card"><span class="tag">PLZ '+z+'</span><h2>Mehrere Kreise möglich</h2><p class="sm" style="margin:0">Diese PLZ reicht über Kreisgrenzen. Bitte den Ort wählen:</p><div class="ch">'+
+  Object.entries(v).map(([c,o])=>'<button data-c="'+c+'"><b>'+esc(o)+'</b>'+esc(nice(DB.d[c]||c))+'</button>').join('')+'</div></div>';
+}
+function label(e){return e.seite?'Formularseite öffnen':/\.pdf/i.test(e.url)?'Vollmacht-PDF öffnen':/\.docx?($|\?)/i.test(e.url)?'Vollmacht (Word) öffnen':'Vollmacht öffnen'}
+function checkInfo(e){
+ const p=e&&e.pruefung;if(!p)return'';
+ if(p.state==='defekt'){
+  const c=p.candidates||[];
+  return '<div class="warn"><b>Link funktioniert nicht mehr</b><div class="sm">'+esc(p.error||'')+' · geprüft am '+day(p.checked)+'</div>'+
+   (c.length&&B.melden?'<div class="sm" style="margin-top:10px">Ein neuer Link wurde auf der Website der Behörde gefunden und liegt zur Freigabe vor.</div>':c.length?'<div class="sm" style="margin-top:10px">Die Prüfung hat auf der Website der Behörde gefunden:</div><div class="ch">'+c.map(x=>'<button data-v="'+esc(x.url)+'"><b>'+esc(x.text||'Vollmacht')+'</b><span class="sm">'+esc(x.url.replace(/^https?:\/\/(www\.)?/,'').slice(0,70))+'</span><span class="take">Übernehmen</span></button>').join('')+'</div>':'<div class="sm" style="margin-top:6px">Kein Ersatz gefunden – bitte neu suchen und Link speichern.</div>')+'</div>';
+ }
+ if(p.state==='stoerung')return '<p class="sm chk">Letzte Prüfung am '+day(p.checked)+': Website nicht erreichbar – wird nächste Nacht erneut geprüft.</p>';
+ if(p.state==='nicht_pruefbar')return '<p class="sm chk">Diese Website erlaubt keine automatische Prüfung.</p>';
+ if(p.checked)return '<p class="sm chk">Geprüft am '+day(p.checked)+(p.changed?' · Formular von der Behörde aktualisiert am '+day(p.changed):'')+'</p>';
+ return '';
+}
+function show(c,z){
+ cur=c;const name=nice(DB.d[c]||c),e=PRESET[c],p=e&&e.pruefung||{};
+ const q=encodeURIComponent('Vollmacht Kfz-Zulassung '+name+' Formular');
+ const search='<a class="btn" href="https://www.google.com/search?q='+q+'" target="_blank" rel="noopener">';
+ let st;
+ if(e&&e.url&&p.state==='defekt'){
+  const copy=B.copies&&p.copy;
+  st=checkInfo(e)+'<div class="btns">'+(copy?'<a class="btn" href="kopien/'+esc(p.copy)+'" target="_blank" rel="noopener">Letzte gesicherte Kopie</a>'+search.replace('class="btn"','class="btn o"'):search)+'Neu suchen</a></div>';
+ } else if(e&&e.url){
+  const copy=B.copies&&p.copy;
+  st='<div class="st"><span class="dot ok"></span><div><b>'+(e.seite?'Formularseite hinterlegt':'Offizielles Formular hinterlegt')+'</b><div class="sm">'+esc(e.note||(e.eigen?'Von Ihrem Team gespeichert.':(e.seite?'Die Behörde verlinkt das Formular nur auf dieser Seite.':'Direkt von der Website der Behörde.')))+'</div></div></div>'+
+  checkInfo(e)+
+  '<div class="btns">'+(copy?'<a class="btn" href="kopien/'+esc(p.copy)+'" target="_blank" rel="noopener">'+(/\.pdf$/.test(p.copy)?'Vollmacht anzeigen':'Vollmacht herunterladen')+'</a><a class="btn o" href="'+esc(e.url)+'" target="_blank" rel="noopener">Original bei der Behörde</a>'
+   :'<a class="btn" href="'+esc(e.url)+'" target="_blank" rel="noopener">'+label(e)+'</a>'+search.replace('class="btn"','class="btn o"')+'Neu suchen</a>')+'</div>';
+ } else st='<div class="st"><span class="dot no"></span><div><b>Noch kein Formular hinterlegt</b><div class="sm">Einmal suchen, Link '+(B.melden?'melden – nach Freigabe steht er allen Kollegen zur Verfügung.':'einfügen, speichern – danach steht er '+(B.shared?'allen Kollegen':'in diesem Browser')+' zur Verfügung.')+'</div></div></div><div class="btns">'+search+'Formular suchen</a></div>';
+ $('out').innerHTML='<div class="card"><span class="tag">PLZ '+z+' · Kreisschlüssel '+c+'</span><h2>'+esc(name)+'</h2>'+st+
+  (B.melden?meldenBlock(e):(e&&e.url?'<div class="links"><button class="more" id="mo">Link ändern</button>'+(e.eigen?'<button class="more" id="rs">Eigenen Link verwerfen</button>':'')+'</div>':'')+
+  '<div class="save" id="sw"'+(e&&e.url?' hidden':'')+'><input id="lk" type="url" placeholder="Gefundenen Link hier einfügen" value=""><button class="btn o" id="sv">Speichern</button></div>')+'</div>';
+}
+function meldenBlock(e){
+ const has=e&&e.url;
+ return (has?'<div class="links"><button class="more" id="mo">Fehler oder neueren Link melden</button></div>':'')+
+  '<div class="save" id="sw"'+(has?' hidden':'')+'><input id="lk" type="url" placeholder="Gefundenen Link hier einfügen (optional)"><button class="btn o" id="ml">Per Mail melden</button></div>'+
+  '<p class="sm" id="mh"'+(has?' hidden':'')+' style="margin:8px 0 0">Die Meldung geht an die Verwaltung. Nach Prüfung wird der Link für alle freigeschaltet.</p>';
+}
+function melden(){
+ const e=PRESET[cur],name=nice(DB.d[cur]||cur),u=$('lk').value.trim();
+ if(u&&!/^https?:\/\/\S+$/i.test(u)){toast('Bitte vollständigen Link mit https:// einfügen');return}
+ const body='Kreis: '+name+' ('+cur+')\nPLZ: '+$('plz').value+'\nBisher hinterlegt: '+(e&&e.url?e.url:'–')+'\nNeuer Link: '+(u||'–')+'\n\nBemerkung: ';
+ location.href='mailto:'+encodeURIComponent(B.meldenAn)+'?subject='+encodeURIComponent('Vollmacht-Finder: '+name+' ('+cur+')')+'&body='+encodeURIComponent(body);
+ toast('Mail-Programm wird geöffnet');
+}
+async function act(fn,msg){
+ try{await fn();await B.load();show(cur,$('plz').value);toast(msg)}catch(e){B.err(e)}
+}
+$('plz').addEventListener('input',look);
+$('out').addEventListener('click',ev=>{
+ const b=ev.target.closest('button[data-c]');if(b)return show(b.dataset.c,$('plz').value);
+ const v=ev.target.closest('button[data-v]');
+ if(v)return act(()=>B.save(cur,v.dataset.v,'Von der nächtlichen Prüfung gefunden und bestätigt'),'Vorschlag übernommen');
+ if(ev.target.id==='mo'){$('sw').hidden=false;if($('mh'))$('mh').hidden=false;ev.target.remove();$('lk').focus();return}
+ if(ev.target.id==='ml')return melden();
+ if(ev.target.id==='rs')return act(()=>B.reset(cur),'Eigener Link verworfen');
+ if(ev.target.id==='sv'){const u=$('lk').value.trim();
+  if(!/^https?:\/\/\S+$/i.test(u)){toast('Bitte vollständigen Link mit https:// einfügen');return}
+  act(()=>B.save(cur,u),B.shared?'Link für alle gespeichert':'Link gespeichert');
+ }
+});
+Promise.all([fetch('plz.json').then(r=>r.json()),pickBackend()]).then(async([j,b])=>{DB=j;B=b;await B.load();if($('plz').value.length===5)look()})
+ .catch(e=>{console.error(e);$('hint').textContent='Daten konnten nicht geladen werden.'});
+</script>
+</body>
+</html>
