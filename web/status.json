@@ -1,16 +1,16 @@
 {
- "lauf": "2026-11-27 03:47:48",
+ "lauf": "2026-11-28 03:42:19",
  "kreise": {
   "01001": {
    "url": "https://www.flensburg.de/loadDocument.phtml?ObjSvrID=2306&ObjID=12658&ObjLa=1&Ext=PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:31:47",
+   "checked": "2026-11-28 03:28:22",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "01002": {
    "url": "https://www.kiel.de/de/politik_verwaltung/service/_zustaendigkeitsfinder/buerger_und_ordnungsamt/kfzzulassung/antrag_auf_zulassung_eines_fahrzeuges.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:31:47",
+   "checked": "2026-11-28 03:28:23",
    "hash": "03a1aa0797f948c61cf7aca5dc7d358c31d758d82c823bae60b3ef369f567759",
    "fails": 0,
    "kind": "pdf"
@@ -18,7 +18,7 @@
   "01003": {
    "url": "https://bekanntmachungen.luebeck.de/dokumente/d/1366/inline",
    "state": "ok",
-   "checked": "2026-11-27 03:31:49",
+   "checked": "2026-11-28 03:28:24",
    "hash": "5942f5487838f24c6362599850ed90658c4aafa243d714120e3e8ae874d351eb",
    "fails": 0,
    "kind": "pdf"
@@ -26,7 +26,7 @@
   "01004": {
    "url": "https://www.neumuenster.de/fileadmin/neumuenster.de/media/verkehr_und_umwelt/strassenverkehr/kfz-zulassung/auto_anmelden/vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:31:52",
+   "checked": "2026-11-28 03:28:27",
    "hash": "50ae71d1ee8b0d14445be522f580a4207def8b88f49d8d306e18a420f22e4222",
    "fails": 0,
    "kind": "pdf"
@@ -34,7 +34,7 @@
   "01053": {
    "url": "https://www.kreis-rz.de/media/custom/1814_49_1.PDF?1444788015=",
    "state": "ok",
-   "checked": "2026-11-27 03:31:53",
+   "checked": "2026-11-28 03:28:28",
    "hash": "4646b033f264dfd10db86e1262e8a68abf465a5aef55203cf8eb7549493cd202",
    "fails": 0,
    "kind": "pdf"
@@ -42,13 +42,13 @@
   "01054": {
    "url": "https://www.nordfriesland.de/loadDocument.phtml?ObjSvrID=2271&ObjID=1898&ObjLa=1&Ext=PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:31:55",
+   "checked": "2026-11-28 03:28:29",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "01055": {
    "url": "https://www.kreis-oh.de/PDF/Kfz_Bevollm%C3%A4chtigung_einer_Person.PDF?ObjSvrID=335&ObjID=7254&ObjLa=1&Ext=PDF&WTR=1&_ts=1728887668",
    "state": "ok",
-   "checked": "2026-11-27 03:31:56",
+   "checked": "2026-11-28 03:28:30",
    "hash": "7eb9a55791174acd6e80d59c2833987b8cb62f99dbf543446dd9a57b685b9b89",
    "fails": 0,
    "kind": "pdf"
@@ -56,7 +56,7 @@
   "01056": {
    "url": "https://www.kreis-pinneberg.de/pinneberg_media/Antr%C3%A4ge+und+Formulare/Auto+_+Verkehr/Vollmacht+Fahrzeugzulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:31:59",
+   "checked": "2026-11-28 03:28:32",
    "hash": "46473563d2c05f70298b1f961d9fa97ec570733111ecd493d0ce6bedace56291",
    "fails": 0,
    "kind": "pdf"
@@ -64,7 +64,7 @@
   "01057": {
    "url": "https://www.kreis-ploen.de/loadDocument.phtml?FID=2158.4772.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:32:00",
+   "checked": "2026-11-28 03:28:33",
    "hash": "c9cd2f4dc8c175b3b1c327a2babebae051197dd63274dad3d510266887756ef8",
    "fails": 0,
    "kind": "pdf"
@@ -72,7 +72,7 @@
   "01058": {
    "url": "https://www.kreis-rendsburg-eckernfoerde.de/fileadmin/download/Bauen_und_Mobilitaet/KFZ_Zulassung/Formular_Vollmacht_Zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:32:02",
+   "checked": "2026-11-28 03:28:35",
    "hash": "b447855ba04f9e454cc7622fe31e79ebfa7a6a360cb7dd44994c19030e00a1bb",
    "fails": 0,
    "kind": "pdf"
@@ -80,7 +80,7 @@
   "01059": {
    "url": "https://www.schleswig-flensburg.de/PDF/Hier_k%C3%B6nnen_Sie_die_Vollmacht_Zulassungs_Stelle_aufrufen_.PDF?ObjSvrID=3333&ObjID=3755&ObjLa=1&Ext=PDF&WTR=1&_ts=1686572441",
    "state": "ok",
-   "checked": "2026-11-27 03:32:05",
+   "checked": "2026-11-28 03:28:37",
    "hash": "0780b3ce811f23bd3010d1802c550559641a08fa4539f63b70a12275efaf51ac",
    "fails": 0,
    "kind": "pdf"
@@ -88,14 +88,14 @@
   "01060": {
    "url": "https://www.segeberg.de/loadDocument.phtml?ObjSvrID=3466&ObjID=711&ObjLa=1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:32:08",
+   "checked": "2026-11-28 03:28:39",
    "fails": 0,
    "kind": "html"
   },
   "01061": {
    "url": "https://www.steinburg.de/fileadmin/download/buerger-service/dienststellen-ansprechpartner/dezernat-3/ordnungsamt/kfz-zulassung/VollmachtNeu.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:32:10",
+   "checked": "2026-11-28 03:28:41",
    "hash": "602e1b996ff1065d2117a8aed61c7acf2f699fc309bb6d42c665c8f7c2f4526d",
    "fails": 0,
    "kind": "pdf"
@@ -103,31 +103,30 @@
   "01062": {
    "url": "https://www.kreis-stormarn.de/forms/FD44_1",
    "state": "ok",
-   "checked": "2026-11-27 03:32:11",
+   "checked": "2026-11-28 03:28:41",
    "hash": "25f5b61de57d08d91c606023818bb6556e7a71457843bda7118b4e8ea9fbb739",
    "fails": 0,
    "kind": "pdf"
   },
   "02000": {
    "url": "https://www.hamburg.de/resource/blob/413162/dc1e316a4331d5f984ba8b06ee3d3ee7/vollmacht-zulassung-privatkunde-data.pdf",
-   "state": "stoerung",
-   "checked": "2026-11-27 03:32:13",
-   "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>",
+   "state": "ok",
+   "checked": "2026-11-28 03:28:43",
    "hash": "3a4aa4c358d3a0f2d6f85520eba99040cc6109ed7f505967cc0b12334fb8ed6f",
-   "fails": 1,
+   "fails": 0,
    "kind": "pdf"
   },
   "03101": {
    "url": "https://www.braunschweig.de/modulinhalte/formulare/24/Zulassungsvollmacht.php",
    "state": "ok",
-   "checked": "2026-11-27 03:32:15",
+   "checked": "2026-11-28 03:28:46",
    "fails": 0,
    "kind": "html"
   },
   "03102": {
    "url": "https://www.salzgitter.de/rathaus/downloads/asp/Fahrzeugzulassung_Vollmacht_neu.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:32:18",
+   "checked": "2026-11-28 03:28:48",
    "hash": "10eb8c6b0c7bcf477dbd067dfe9d7ed2a3bbfcb76cdf61bfac7ef1fa3b4217b5",
    "fails": 0,
    "kind": "pdf"
@@ -135,14 +134,14 @@
   "03103": {
    "url": "https://formserv.stadt.wolfsburg.de/jfs/findform?shortname=01_vollmachtkfz&formtecid=3&areashortname=wolfsburg",
    "state": "ok",
-   "checked": "2026-11-27 03:32:19",
+   "checked": "2026-11-28 03:28:49",
    "fails": 0,
    "kind": "html"
   },
   "03151": {
    "url": "https://openrathaus.gifhorn.de/dienstleistungen/-/egov-bis-detail/dokument/93548/download?_9_WAR_vrportlet_priv_r_p_action=bisview-dienstleistung-show",
    "state": "ok",
-   "checked": "2026-11-27 03:32:21",
+   "checked": "2026-11-28 03:28:51",
    "hash": "40af14f4ce61b3d4159d452e56f9a50d135ba22d4af5813434755b8f9d251233",
    "fails": 0,
    "kind": "pdf"
@@ -150,7 +149,7 @@
   "03153": {
    "url": "https://www.landkreis-goslar.de/loadDocument.phtml?FID=3601.1065.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:32:23",
+   "checked": "2026-11-28 03:28:52",
    "hash": "06382bdc03cfe3c93d92b0ffc683c8c2008555cf83fd37945e4ede3c0c7f48c6",
    "fails": 0,
    "kind": "pdf"
@@ -158,7 +157,7 @@
   "03155": {
    "url": "https://landkreis-northeim.de/medien/dokumente/vollmacht_fuer_zulassungsangelegenheiten_eines_kraftfahrzeuges.pdf?20240704154825=",
    "state": "ok",
-   "checked": "2026-11-27 03:32:26",
+   "checked": "2026-11-28 03:28:55",
    "hash": "076c39ec7746b621a72062883c90aec78ca6fc19557a472717bcdbd0e97dbbdf",
    "fails": 0,
    "kind": "pdf"
@@ -166,27 +165,27 @@
   "03157": {
    "url": "https://www.landkreis-peine.de/output/download.php?fid=3583.1188.1.PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:32:30",
+   "checked": "2026-11-28 03:28:58",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "03158": {
    "url": "https://www.lkwf.de/output/download.php?fid=175.977.1.PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:32:30",
+   "checked": "2026-11-28 03:28:58",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "03241": {
    "url": "https://www.hannover.de/Media/01-DATA-Neu/Downloads/Region-Hannover/Verkehr/Verkehrsbehörde-RH/Verkehr-Vollmacht-für-Fahrzeugzulassung",
    "state": "defekt",
-   "checked": "2026-11-27 03:32:31",
+   "checked": "2026-11-28 03:28:59",
    "error": "UnicodeEncodeError: 'ascii' codec can't encode character '\\xf6' in position 68: ordinal not in range(128)",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "03251": {
    "url": "https://www.diepholz.de/medien/dokumente/vollmacht_fuer_zulassung.pdf?20240523085622=",
    "state": "ok",
-   "checked": "2026-11-27 03:32:33",
+   "checked": "2026-11-28 03:29:00",
    "hash": "ddc6adec71b5e98237668c5ee42ed4b8f5956e0bee0a9611402a5136fba87cbd",
    "fails": 0,
    "kind": "pdf"
@@ -194,7 +193,7 @@
   "03252": {
    "url": "https://service.hameln-pyrmont.de/medien/dokumente/vollmacht_fahrzeugzulassung__15__.pdf?20241203083239",
    "state": "ok",
-   "checked": "2026-11-27 03:32:34",
+   "checked": "2026-11-28 03:29:02",
    "hash": "c3c0d7f255dfe5ae6773918e760ee0edf3511ff6046dd752fa1d0b8f398b8061",
    "fails": 0,
    "kind": "pdf"
@@ -202,7 +201,7 @@
   "03254": {
    "url": "https://www.landkreishildesheim.de/loadDocument.phtml?FID=3711.2042.1&Ext=DOCX",
    "state": "ok",
-   "checked": "2026-11-27 03:32:36",
+   "checked": "2026-11-28 03:29:03",
    "hash": "bc159ed5562f1fa101b7cc65f427c5a02ca2aae67ce32bd57f10e940b0d0c6c2",
    "fails": 0,
    "kind": "zip"
@@ -210,7 +209,7 @@
   "03255": {
    "url": "https://www.landkreis-holzminden.de/downloads/datei/NGQyNjFhZjIxODdlYzMyY3dtRXdmQVV4Vkw4dXhTc1RDWENUbVhNNDZsbW13Z1lkVUlEcDhLYkNqUEFCamRDTzdVNEUvOGJOY3VGZ3V0OGlCQVFJK1lHSDQ2dkcvM2lUZnhIUVF6ZWRWbDlyc2R5Y2JkQnZYekpsY2VhODBkcGM5bzJBa2ZCSGVrRk5aenAzR2F1bDd4NnpCZXBkcDNRTTNqdjROM2RjOTBETWRKdU4xaDdGQWswVWtQYz0",
    "state": "ok",
-   "checked": "2026-11-27 03:32:39",
+   "checked": "2026-11-28 03:29:05",
    "hash": "eafa2fe9d5e2a40da0c562d32a8389f7bef044aa068b367a224a1075ece1508b",
    "fails": 0,
    "kind": "pdf"
@@ -218,7 +217,7 @@
   "03256": {
    "url": "https://www.lk-nienburg.de/downloads/datei/MzNkYTBlYTVjZmNmODg3ZXZ5M0pSUit5UjJiTGNPRzBjVFpsRFl2TnNCRko2SkxmTWs0TnptMVhIS25QV3VNbmtpVlcvUWhzamM3WlBwUFp6QjBBWGUxZWlWQnd2OE9OSnlRL0dicWdXM1ZSdjN2SEpWZlNsWkxOdzBIM1dzSXYvK0h3bUJHZEprY2JwWEVnUmg5Tkg2bmhpQy8zTVpQSG1zWklsZXdZYlNUN20wUTE4ckIyWGZ4UG5naz0",
    "state": "ok",
-   "checked": "2026-11-27 03:32:41",
+   "checked": "2026-11-28 03:29:07",
    "hash": "58ca0b144c98f756fa7be492cf162286d8368d4dbaf5b42af3cd74b39e58f522",
    "fails": 0,
    "kind": "pdf"
@@ -226,7 +225,7 @@
   "03257": {
    "url": "https://bewerbung.schaumburg.de/medien/dokumente/vollmacht_zur_vorlage_bei_der_kfz_zulassungsbehoerde.pdf?20230601163419=",
    "state": "ok",
-   "checked": "2026-11-27 03:32:42",
+   "checked": "2026-11-28 03:29:08",
    "hash": "07b9801206b499cc50b766ca93cb1ccb305146ea493a3be0f1662e2995e1f304",
    "fails": 0,
    "kind": "pdf"
@@ -234,7 +233,7 @@
   "03351": {
    "url": "https://www.landkreis-celle.de/media/custom/3314_3957_1.DOCX?1760019635",
    "state": "ok",
-   "checked": "2026-11-27 03:32:44",
+   "checked": "2026-11-28 03:29:10",
    "hash": "b06d712e15e819a7659641049f25da2dff9307adc704b22d651a2f951ce4dd1d",
    "fails": 0,
    "kind": "docx"
@@ -242,7 +241,7 @@
   "03352": {
    "url": "https://landkreis-cuxhaven.de/media/custom/1779_1596_1.PDF?1534409381=",
    "state": "defekt",
-   "checked": "2026-11-27 03:32:46",
+   "checked": "2026-11-28 03:29:11",
    "error": "Statt einer Datei kam eine Webseite zurück",
    "candidates": [
     {
@@ -251,12 +250,12 @@
      "score": 4
     }
    ],
-   "fails": 3
+   "fails": 4
   },
   "03353": {
    "url": "https://www.landkreis-harburg.de/formulare/fs.php?id=20100-1000716-20100",
    "state": "ok",
-   "checked": "2026-11-27 03:32:49",
+   "checked": "2026-11-28 03:29:14",
    "hash": "2277a6e2fbf4a402d95e94e0199d345bb8b2cfa630d69807f7ad22940b80d5e3",
    "fails": 0,
    "kind": "pdf"
@@ -264,7 +263,7 @@
   "03354": {
    "url": "https://www.luechow-dannenberg.de/downloads/datei/N2FjYTcyNmZhY2U0OGUyNG56WFZ6L21pc1c5MVplSlo0azA3OXRhaFRlQjVvWjEvVnEybFdFV2hJUFFjNDVxc3hVWFBjRWRTY1FjS29lbFM4dHVtUUhQMGFqMFJKcFlPNDhqWEV2ZXM3dC8wdWEwZFpDNmp4RWJlWXNNWlowaXlGclRTN2xTMVVxNW5QTkMwS09lWGpqRTdjUDhaNGVHT2pxR2EwbWxzQzB3WU9WTW9rLy9pSjJQYWlBMD0",
    "state": "ok",
-   "checked": "2026-11-27 03:32:52",
+   "checked": "2026-11-28 03:29:16",
    "hash": "cc2f24055d98ec6d8a9b5da2a2a4a56ed607f6cb011d7eb0f45a81ddb3a2979f",
    "fails": 0,
    "kind": "pdf"
@@ -272,7 +271,7 @@
   "03355": {
    "url": "https://www.landkreis-lueneburg.de/_Resources/Persistent/3/4/2/b/342b44a10304681214eb46b8568f4a78d8fe1162/Vollmacht_2021_1.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:32:53",
+   "checked": "2026-11-28 03:29:18",
    "hash": "9a54daf2d39bc44c0fd17b20cb0e946ec4c857c09f5d41797bd1bebbd345462d",
    "fails": 0,
    "kind": "pdf"
@@ -280,7 +279,7 @@
   "03356": {
    "url": "https://www.landkreis-osterholz.de/formulare/fs.php?id=21000-901000403-21000",
    "state": "ok",
-   "checked": "2026-11-27 03:32:55",
+   "checked": "2026-11-28 03:29:19",
    "hash": "59478a778aef811b7c828b3605fce82ad89e9b79310aed35278a99f813d20cdb",
    "fails": 0,
    "kind": "pdf"
@@ -288,7 +287,7 @@
   "03357": {
    "url": "https://www.lk-row.de/downloads/datei/NGM2OWM3YThmZWQyYWY3ZDBVZXhsYWVjYXFKbDFQT1huNjVHVnd3UEJ1MDRzalY4K2VFMkJZNzIxblFsbG8vdWxNTTJad1NQTjdxUitsMUlkOVZadzdCU1Y1Yml1OTRwQ2dtcFlDNytiajJ2M0d3WU5BV3V6WUVWMW0zaHNEeE1PeG5BMVVmenJ5ZmlzWGQ0",
    "state": "ok",
-   "checked": "2026-11-27 03:32:57",
+   "checked": "2026-11-28 03:29:21",
    "hash": "3bd059bf1e43e1a923db70730df01eeb01ef1bc0c04355e2d74a16a49e2fe1b1",
    "fails": 0,
    "kind": "doc"
@@ -296,7 +295,7 @@
   "03358": {
    "url": "https://www.heidekreis.de/_Resources/Persistent/f/9/b/d/f9bd9d785dace9eebb1d7f085f06e45d1fd8ea42/Antrag_auf_Zulassung_und_Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:32:59",
+   "checked": "2026-11-28 03:29:22",
    "hash": "f6bca883d8ac1d3ca0da611029e6d74daa888d36eef02a49d620441132f688c4",
    "fails": 0,
    "kind": "pdf"
@@ -304,7 +303,7 @@
   "03359": {
    "url": "https://www.landkreis-stade.de/formulare/fs.php?id=20350-901002372-20350",
    "state": "ok",
-   "checked": "2026-11-27 03:33:01",
+   "checked": "2026-11-28 03:29:24",
    "hash": "5e4fe4f931052a487cbb7ca6d72eaf11984b7ed58a29b8de847d566c5973b4f9",
    "fails": 0,
    "kind": "pdf"
@@ -312,7 +311,7 @@
   "03360": {
    "url": "https://www.landkreis-uelzen.de/Portaldata/2/Resources/landkreis_uelzen/amt_36/zulassung/Vollmacht_030114.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:33:03",
+   "checked": "2026-11-28 03:29:26",
    "hash": "d2a2383e5b9a629651e08b1f0deacf27f5ed95218ae9630dc384664c6c2e9f29",
    "fails": 0,
    "kind": "pdf"
@@ -320,7 +319,7 @@
   "03361": {
    "url": "https://www.landkreis-verden.de/formulare/fs.php?id=20600-900010005-20600",
    "state": "ok",
-   "checked": "2026-11-27 03:33:04",
+   "checked": "2026-11-28 03:29:27",
    "hash": "046a35c40af5cf7376acd2c51cb0c9c73c1f39b8ce8c09ce84f852d26adc14e0",
    "fails": 0,
    "kind": "pdf"
@@ -328,7 +327,7 @@
   "03401": {
    "url": "https://www.delmenhorst.de/medien/antraege/11/Zulassungsstelle_Vollmacht_841_141211.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:33:08",
+   "checked": "2026-11-28 03:29:30",
    "hash": "01c4d191cfef99f8c14dcb746ad30c1231bb7ce8f5743aa42ced6f1f11f0d906",
    "fails": 0,
    "kind": "pdf"
@@ -336,7 +335,7 @@
   "03402": {
    "url": "https://www.emden.de/fileadmin/media/stadtemden/PDF/FB_400/FD_433/433_vollmacht_kfz_akt.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:33:10",
+   "checked": "2026-11-28 03:29:31",
    "hash": "2017c4743120791299a38824444dc3685c9b7da2baa151201a13e087719a8286",
    "fails": 0,
    "kind": "pdf"
@@ -344,7 +343,7 @@
   "03403": {
    "url": "https://serviceportal.oldenburg.de/medien/dokumente/230418_vollmacht_zur_zulassung_eines_kfz_final_b.pdf?20230426143005=",
    "state": "ok",
-   "checked": "2026-11-27 03:33:11",
+   "checked": "2026-11-28 03:29:32",
    "hash": "0d42a90f7219a79a3b17170b07d621b0b375dc6ab1987eacec1b2ce166cd694f",
    "fails": 0,
    "kind": "pdf"
@@ -352,15 +351,15 @@
   "03405": {
    "url": "https://www.wilhelmshaven.de/PDF/Formulare/32/32-10_Zulassung/Zulassungsantrag_Vollmacht_0.pdf?m=1770037601",
    "state": "defekt",
-   "checked": "2026-11-27 03:33:13",
+   "checked": "2026-11-28 03:29:34",
    "error": "HTTP 404",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "03451": {
    "url": "https://www.ammerland.de/loadDocument.phtml?FID=2843.1531.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:33:14",
+   "checked": "2026-11-28 03:29:35",
    "hash": "92c65b46cd188178a7ad2aea48c3110d16241bd416bf320b8857599b5d25a7b2",
    "fails": 0,
    "kind": "pdf"
@@ -368,7 +367,7 @@
   "03452": {
    "url": "https://www.landkreis-aurich.de/fileadmin/dateiablage/buergerservice/Vollmacht_02.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:33:17",
+   "checked": "2026-11-28 03:29:38",
    "hash": "c4c4efca7558b458a8440ae9bbfa99d0ff44d49fbecdc09dbffd3394fa7e0680",
    "fails": 0,
    "kind": "pdf"
@@ -376,7 +375,7 @@
   "03453": {
    "url": "https://www.kommune365.de/landkreis-cloppenburg/online-dienst/link/961aa367-90a5-4a83-ae5b-bd4a7f0d3064/zulassung-von-neufahrzeugen/8662395?oeId=917",
    "state": "ok",
-   "checked": "2026-11-27 03:33:19",
+   "checked": "2026-11-28 03:29:39",
    "hash": "b571afc3e42d8451d93da84f9881d02ac21cee57a44eee6a53e14eb6092cdfac",
    "fails": 0,
    "kind": "pdf"
@@ -384,7 +383,7 @@
   "03455": {
    "url": "https://www.friesland.de/formulare/fs.php?id=20800-900010023-20800",
    "state": "ok",
-   "checked": "2026-11-27 03:33:22",
+   "checked": "2026-11-28 03:29:42",
    "hash": "095b7ba4eceb07c45d78ece0c931c1bfbbff4f34f8897d3d29c938b8cecbdb5e",
    "fails": 0,
    "kind": "pdf"
@@ -392,13 +391,13 @@
   "03457": {
    "url": "https://www.landkreis-leer.de/output/download.php?fid=3399.2645.1.PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:33:25",
+   "checked": "2026-11-28 03:29:44",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "03458": {
    "url": "https://www.oldenburg-kreis.de/formulare/fs.php?id=21700-900000515-21700",
    "state": "ok",
-   "checked": "2026-11-27 03:33:26",
+   "checked": "2026-11-28 03:29:44",
    "hash": "e51727bf463a0db69a0d3e2fc6e7052cc6a3c435371d676b40f041b7946f89c4",
    "fails": 0,
    "kind": "pdf"
@@ -406,7 +405,7 @@
   "03459": {
    "url": "https://include-ni.zfinder.de/IWFileLoader?tsaid_fileId=326845652&",
    "state": "ok",
-   "checked": "2026-11-27 03:33:29",
+   "checked": "2026-11-28 03:29:47",
    "hash": "148c57a5e7d412c5bd4c75787a333bea4ef6504c525dae66def79fc1f9d8eea3",
    "fails": 0,
    "kind": "pdf"
@@ -414,7 +413,7 @@
   "03460": {
    "url": "https://www.kommune365.de/dateien/download/74e73ae0-7e46-4e58-8736-62b5f46b7634?communeSlug=landkreis-vechta",
    "state": "ok",
-   "checked": "2026-11-27 03:33:31",
+   "checked": "2026-11-28 03:29:48",
    "hash": "f40e2e8a14fbfa10d0c0c959e1d0106d89477edc5a1c86ff388218b0846cd612",
    "fails": 0,
    "kind": "pdf"
@@ -422,7 +421,7 @@
   "03461": {
    "url": "https://wesermarsch.de/wp-content/uploads/2024/09/Vollmacht_Kfz_LKW_ausfb-pdf.jpg",
    "state": "ok",
-   "checked": "2026-11-27 03:33:32",
+   "checked": "2026-11-28 03:29:49",
    "hash": "426c0ddabef3708d7ce9609c872cc46d7081db45aeef18fd1311d2ffb5b3136c",
    "fails": 0,
    "kind": "jpg"
@@ -430,7 +429,7 @@
   "03462": {
    "url": "https://www.landkreis-wittmund.de/media/custom/3105_1732_1.PDF?1793698883",
    "state": "ok",
-   "checked": "2026-11-27 03:33:34",
+   "checked": "2026-11-28 03:29:51",
    "hash": "985bbf0c77b4d21cb89228f067ddea2724b844e5f950f7d3ec62871b48e733a8",
    "fails": 0,
    "kind": "pdf"
@@ -438,26 +437,26 @@
   "04011": {
    "url": "https://buergerservice-master.calypso.bremen.de/sixcms/media.php/5/Vollmacht%20neu%2031.pdf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:33:36",
+   "checked": "2026-11-28 03:29:52",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "04012": {
    "url": "https://bremerhaven.de/sixcms/media.php/250/Vollmacht_KFZ_Zulassung_NEU.pdf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:33:36",
+   "checked": "2026-11-28 03:29:53",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "05111": {
    "url": "https://formulare.duesseldorf.de/forms/frm/jXT8Chr1CRQDaN2VTh4T5vavZTDza6ZJ",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:33:38",
+   "checked": "2026-11-28 03:29:54",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)",
    "fails": 1
   },
   "05112": {
    "url": "https://www.duisburg.de/vv/medien/dez_ii/32/Vollmacht-zur-Zulassung-mit-SEPA.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:33:39",
+   "checked": "2026-11-28 03:29:55",
    "hash": "46b399bc836695c9a21e81d61d0136365db1944f02591e8619abf6e5d9db4e72",
    "fails": 0,
    "kind": "pdf"
@@ -465,7 +464,7 @@
   "05113": {
    "url": "https://service.essen.de/detail/-/vr-bis-detail/dokument/112314/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
    "state": "ok",
-   "checked": "2026-11-27 03:33:40",
+   "checked": "2026-11-28 03:29:57",
    "hash": "cc222697d2b1b99623c068ff347a2865a09e03fd1c59bcf9dbb140792bbfd417",
    "fails": 0,
    "kind": "pdf"
@@ -473,7 +472,7 @@
   "05116": {
    "url": "https://service.moenchengladbach.de/suche/-/vr-bis-detail/dokument/51280/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
    "state": "ok",
-   "checked": "2026-11-27 03:33:43",
+   "checked": "2026-11-28 03:29:59",
    "hash": "11128c49150d76d6b3332ceaf5b8cb8b02b4de9031841f2980fa353de3f5f6c7",
    "fails": 0,
    "kind": "pdf"
@@ -481,7 +480,7 @@
   "05117": {
    "url": "https://cms.muelheim-ruhr.de/sites/default/files/2026-03/Vollmacht_Zulassung_.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:33:45",
+   "checked": "2026-11-28 03:30:00",
    "hash": "f7be357c5391c76e1ee93ba9278839f26f198c09ad41572a725673bb8667d04f",
    "fails": 0,
    "kind": "pdf"
@@ -489,7 +488,7 @@
   "05119": {
    "url": "https://www.oberhausen.de/de/index/rathaus/verwaltung/burgerservice-offentliche-ordnung-personal-und-it/buergerservice/strassenverkehr/strassenverkehr-material/vollmacht_zulassung_sepa_0518.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:33:46",
+   "checked": "2026-11-28 03:30:02",
    "hash": "29add2c360dad27fed74dffbbe688039aed0ff97d4abb1ccf6ac16ec0069fe41",
    "fails": 0,
    "kind": "pdf"
@@ -497,7 +496,7 @@
   "05120": {
    "url": "https://www.remscheid.de/vv/medien/dokumente-import-vom-altsystem/medienpool.dokumente.020/322KFZ_Vollmacht_Zulassung_ab30-01-2014.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:33:48",
+   "checked": "2026-11-28 03:30:03",
    "hash": "9a578d6b724201c7c341758092ed0e879d3840ded08ef4079c69f085901a8169",
    "fails": 0,
    "kind": "pdf"
@@ -505,7 +504,7 @@
   "05154": {
    "url": "https://www.kreis-kleve.de/system/files/2024-06/vollmacht_zulassung_mit_datenschutzhinweisen20.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:33:49",
+   "checked": "2026-11-28 03:30:05",
    "error": "HTTP 403",
    "candidates": [
     {
@@ -514,12 +513,12 @@
      "score": 4
     }
    ],
-   "fails": 3
+   "fails": 4
   },
   "05158": {
    "url": "https://www.kreis-mettmann.de/loadDocument.phtml?FID=3718.370.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:33:51",
+   "checked": "2026-11-28 03:30:06",
    "hash": "91933e5e20fb7f60c3b38df9f9e9ba18604d209249f1198e4ba10b8d60e76a88",
    "fails": 0,
    "kind": "pdf"
@@ -527,7 +526,7 @@
   "05162": {
    "url": "https://www.rhein-kreis-neuss.de/fileadmin/user_upload/redaktionsgruppen/strassenverkehrsamt/formulare-publikationen/form_zul_vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:33:53",
+   "checked": "2026-11-28 03:30:08",
    "hash": "ea10588d1d7927209762802cff7271474d7b9b5c238e3b33e5abcdc90cf50aa3",
    "fails": 0,
    "kind": "pdf"
@@ -535,7 +534,7 @@
   "05166": {
    "url": "https://www.kreis-viersen.de/system/files/dokumente/32_4_zulassung_vollmacht.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:33:55",
+   "checked": "2026-11-28 03:30:09",
    "error": "HTTP 403",
    "candidates": [
     {
@@ -544,12 +543,12 @@
      "score": 2
     }
    ],
-   "fails": 3
+   "fails": 4
   },
   "05170": {
    "url": "https://www.kreis-wesel.de/system/files/2024-06/Vollmacht_Einverst%C3%A4ndniserkl%C3%A4rung%20-%20Druckvorlage.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:33:57",
+   "checked": "2026-11-28 03:30:11",
    "hash": "095004f4fdf12428889974e7df644bf4afbccaabc0fe9690e4e82265d96b1d92",
    "fails": 0,
    "kind": "pdf"
@@ -557,14 +556,14 @@
   "05314": {
    "url": "https://formulare.bonn.de/metaform/Form-Solutions/sid/assistant/5a127e5cc2dc08a0f4b5c9c0",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:33:58",
+   "checked": "2026-11-28 03:30:12",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)",
    "fails": 1
   },
   "05315": {
    "url": "https://www.stadt-koeln.de/artikel/71535/index.html?euid=144",
    "state": "ok",
-   "checked": "2026-11-27 03:33:59",
+   "checked": "2026-11-28 03:30:13",
    "fails": 0,
    "kind": "html",
    "seite_links": 0
@@ -572,7 +571,7 @@
   "05316": {
    "url": "https://leverkusen.kommunalportal.nrw:443/detail/-/vr-bis-detail/dokument/34391/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
    "state": "ok",
-   "checked": "2026-11-27 03:34:01",
+   "checked": "2026-11-28 03:30:14",
    "hash": "71f8b2b8b2f45ecb34b7d20ceca4a7b7041c1a49b61a2831d022eb2c41599d7b",
    "fails": 0,
    "kind": "pdf"
@@ -580,7 +579,7 @@
   "05334": {
    "url": "https://www.staedteregion-aachen.de/fileadmin/user_upload/A_36/Dateien/Vollmacht-SEPA.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:03",
+   "checked": "2026-11-28 03:30:16",
    "hash": "f660281eb1393e42f6c017dc1a5952b0f6c87a70a4e6b6bf7c2e49e58fb193c0",
    "fails": 0,
    "kind": "pdf"
@@ -588,15 +587,15 @@
   "05358": {
    "url": "https://www.kreis-dueren.de/kreishaus/amt/amt30/pdf/zulassung/Zulassungsvollmacht_2023.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:34:05",
+   "checked": "2026-11-28 03:30:17",
    "error": "HTTP 404",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "05362": {
    "url": "https://www.rhein-erft-kreis.de/infrastruktur/Vollmacht_Zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:07",
+   "checked": "2026-11-28 03:30:19",
    "hash": "327266afb68d267ed898af721d047570e4f81a5aac1e50d8b4052c646c602ab9",
    "fails": 0,
    "kind": "pdf"
@@ -604,7 +603,7 @@
   "05366": {
    "url": "https://www.kreis-euskirchen.de/fileadmin/import/Vollmacht__KFZ_.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:08",
+   "checked": "2026-11-28 03:30:23",
    "hash": "0247d9c8cf062a42bbec4a8bc93fbfb08b594e0e9c9a58ccee1962bcafb227ed",
    "fails": 0,
    "kind": "pdf"
@@ -612,7 +611,7 @@
   "05370": {
    "url": "https://service.kreis-heinsberg.de:443/detail/-/vr-bis-detail/dokument/149078/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
    "state": "ok",
-   "checked": "2026-11-27 03:34:10",
+   "checked": "2026-11-28 03:30:28",
    "hash": "2624b95d4213ebdf1b5b95c3de00aa8567aea10f9fe7ea4aabe5435415bb07ba",
    "fails": 0,
    "kind": "pdf"
@@ -620,7 +619,7 @@
   "05374": {
    "url": "https://www.obk.de/obk/medien/dokumente/mobilitaet/36_zulassungsvollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:12",
+   "checked": "2026-11-28 03:30:30",
    "hash": "05a65bd618d53e0f6aa0d29ede3e0d333d13785c7fb175a0327705ccdfb3672e",
    "fails": 0,
    "kind": "pdf"
@@ -628,7 +627,7 @@
   "05378": {
    "url": "https://www.rbk-direkt.de/module/Behoerdenlotse/Formularhandler.aspx?id=2859",
    "state": "ok",
-   "checked": "2026-11-27 03:34:15",
+   "checked": "2026-11-28 03:30:32",
    "hash": "dc18160ac16de00f82d1cb45b0ef793e10ae6b6bd1f2d551bbf1e39aadf107e6",
    "fails": 0,
    "kind": "pdf"
@@ -636,7 +635,7 @@
   "05382": {
    "url": "https://www.rhein-sieg-kreis.de/vv/ressourcen/medien/Dezernat_5/Amt_36/Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:17",
+   "checked": "2026-11-28 03:30:34",
    "hash": "1342c3c3594768972c08b4a26247466fc3c109d441a74f3bc7804e5806dfd5b9",
    "fails": 0,
    "kind": "pdf"
@@ -644,7 +643,7 @@
   "05512": {
    "url": "https://www.bottrop.de/vv/downloads/Vollmacht_Zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:19",
+   "checked": "2026-11-28 03:30:35",
    "hash": "3b1fad905821a93bca3b3c8a6deb3d89bdd61daa43066d915efb91bfacc98d1a",
    "fails": 0,
    "kind": "pdf"
@@ -652,7 +651,7 @@
   "05513": {
    "url": "https://www.gelsenkirchen.de/de/Infrastruktur/Verkehr/Rund_ums_Auto/_doc/Antrag_und_SEPA_Mandat.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:21",
+   "checked": "2026-11-28 03:30:38",
    "hash": "f83a5a186bf7066b48ba272913d310cda142cf211e4f7fa1bed6b6d68b78c5fd",
    "fails": 0,
    "kind": "pdf"
@@ -660,7 +659,7 @@
   "05515": {
    "url": "https://www.stadt-muenster.de/fileadmin/user_upload/stadt-muenster/32_kfz/pdf/vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:24",
+   "checked": "2026-11-28 03:30:39",
    "hash": "2eb84a33e8c4b7079702299f017adaa8df14f59a452eeb125e1f104869dbd13d",
    "fails": 0,
    "kind": "pdf"
@@ -668,20 +667,20 @@
   "05554": {
    "url": "https://kreis-borken.optigov.app/api/download/datei/3818",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:34:26",
+   "checked": "2026-11-28 03:30:41",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "05558": {
    "url": "https://formulare.kreis-coesfeld.de/forms/frm/jDP3kF9QxR354m4rGJMPjFJv9rR4GKH",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:34:27",
+   "checked": "2026-11-28 03:30:42",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)",
    "fails": 1
   },
   "05562": {
    "url": "https://bso.gkd-re.de/bsointer001/redirect?mandant=1&netz=4&typ=2&id=7706",
    "state": "ok",
-   "checked": "2026-11-27 03:34:28",
+   "checked": "2026-11-28 03:30:42",
    "hash": "90ca565f99ea287ba46c2664e0488e38f4346a43e03d3d7be1456c98c953f991",
    "fails": 0,
    "kind": "pdf"
@@ -689,7 +688,7 @@
   "05566": {
    "url": "https://www.kreis-steinfurt.de/kv_steinfurt/Kreisverwaltung/%C3%84mter/Stra%C3%9Fenverkehrsamt/Kfz-Zulassungsstelle/20250414%20Neu_Vollmacht_bearbeitbar.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:30",
+   "checked": "2026-11-28 03:30:44",
    "hash": "86728536c1d4f428375daf37d0373f40b760c8bf6eac11396708924cd1bfae12",
    "fails": 0,
    "kind": "pdf"
@@ -697,7 +696,7 @@
   "05570": {
    "url": "https://www.kreis-warendorf.de/fileadmin/_migrated/content_uploads/Vollmacht_-_SEPA.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:33",
+   "checked": "2026-11-28 03:30:46",
    "hash": "de4597d9c29ad4f8d66a9a30b19983b5a5916068d2df39e01d1f7395e8dce15b",
    "fails": 0,
    "kind": "pdf"
@@ -705,7 +704,7 @@
   "05711": {
    "url": "https://service.bielefeld.de/detail/-/vr-bis-detail/dokument/767062/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
    "state": "ok",
-   "checked": "2026-11-27 03:34:34",
+   "checked": "2026-11-28 03:30:47",
    "hash": "9b383f54c77b27a5f68671df289854c7ad9221b5e82d19f01c38aad4094a1245",
    "fails": 0,
    "kind": "pdf"
@@ -713,7 +712,7 @@
   "05754": {
    "url": "https://service.kreis-guetersloh.de:443/detailansicht/-/vr-bis-detail/dokument/7522/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
    "state": "ok",
-   "checked": "2026-11-27 03:34:36",
+   "checked": "2026-11-28 03:30:49",
    "hash": "06cb4c4fa484d233f89adb2f4f475f4c4dbc7cf0b66689c5f51087dac450778e",
    "fails": 0,
    "kind": "pdf"
@@ -721,7 +720,7 @@
   "05758": {
    "url": "https://service.kreis-herford.de/detail/-/vr-bis-detail/dokument/13157/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
    "state": "ok",
-   "checked": "2026-11-27 03:34:38",
+   "checked": "2026-11-28 03:30:50",
    "hash": "64c3d3d3b75b5b55eb2bc979b02f7623bc87c8053994e7167108912f665db7f2",
    "fails": 0,
    "kind": "pdf"
@@ -729,7 +728,7 @@
   "05762": {
    "url": "https://www.kreis-hoexter.de/m_16784_dl",
    "state": "ok",
-   "checked": "2026-11-27 03:34:39",
+   "checked": "2026-11-28 03:30:52",
    "hash": "cf26ae84082bf9383fb8fea7d1d1bf24014802ddfb4b5d9708a1a8fd682511d8",
    "fails": 0,
    "kind": "pdf"
@@ -737,7 +736,7 @@
   "05770": {
    "url": "https://www.minden-luebbecke.de/media/custom/322_1338_1.PDF?1402914030=",
    "state": "defekt",
-   "checked": "2026-11-27 03:34:42",
+   "checked": "2026-11-28 03:30:54",
    "error": "HTTP 404",
    "candidates": [
     {
@@ -746,12 +745,12 @@
      "score": 2
     }
    ],
-   "fails": 3
+   "fails": 4
   },
   "05774": {
    "url": "https://www.kreis-paderborn.de/kreis_paderborn-wAssets/docs/36-strassenverkehrsamt/36-1-zulassungsstelle/Vollmacht-Stand-27.08.25.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:34:44",
+   "checked": "2026-11-28 03:30:56",
    "hash": "1bd4a22ca773b027754cba7c58b5fcb81c41652088c97cee01e18b19e7757336",
    "fails": 0,
    "kind": "pdf"
@@ -759,23 +758,23 @@
   "05913": {
    "url": "https://application.dortmund.de/dortmund/projekte/rathaus/verwaltung/buergerdienste/downloads/services/vollmacht-zur-kfz-zulassung.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:34:45",
+   "checked": "2026-11-28 03:30:57",
    "error": "URLError: <urlopen error [Errno -2] Name or service not known>",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "05914": {
    "url": "https://www.hagen.de/dateien/aus-dem-rathaus/fachbereiche-und-aemter/a-z/zulassungsbehoerde/vollmacht.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:34:47",
+   "checked": "2026-11-28 03:30:58",
    "error": "URLError: <urlopen error timed out>",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "05915": {
    "url": "https://serviceportal.hamm.de/detail/-/vr-bis-detail/dokument/294192/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
    "state": "ok",
-   "checked": "2026-11-27 03:35:22",
+   "checked": "2026-11-28 03:31:34",
    "hash": "489f037783beed8e989afe84fc535bd6ca9054051a88e36cbaf4551cedf5fa2c",
    "fails": 0,
    "kind": "pdf"
@@ -783,7 +782,7 @@
   "05916": {
    "url": "https://www.herne.de/PDF/Formulare/Kraftfahrzeug-Zulassung-und-Fahrerlaubnis/Hinweiszettel-mit-Vollmacht.pdf.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:35:24",
+   "checked": "2026-11-28 03:31:36",
    "hash": "90dd29a938c8eed0d7be500783b0e3ff0bb0dccfe67066dcb0f012d6d1cf7cff",
    "fails": 0,
    "kind": "pdf"
@@ -791,7 +790,7 @@
   "05954": {
    "url": "https://www.enkreis.de/fileadmin/user_upload/Dokumente/36_1/Zulassungsvollmacht-neu.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:35:26",
+   "checked": "2026-11-28 03:31:37",
    "hash": "18c69af1fa68c515ccd4e48591576d7eabe47958b2303dbbdb24449be276a4ea",
    "fails": 0,
    "kind": "pdf"
@@ -799,7 +798,7 @@
   "05958": {
    "url": "https://www.hochsauerlandkreis.de/fileadmin/user_upload/Fachbereich_3/FD_33/Strassenverkehrsamt/Zulassungsantrag_2024.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:35:28",
+   "checked": "2026-11-28 03:31:38",
    "hash": "1b39944f6d47f60314be4731204ad8b8e680d032371cb3d9126f2efe5f17884e",
    "fails": 0,
    "kind": "pdf"
@@ -807,19 +806,19 @@
   "05962": {
    "url": "https://formular.kdz-ws.net/forms/frm/nh15fD6h5Q8Mc6CmG77rTzKfmkjRaVn2",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:35:30",
+   "checked": "2026-11-28 03:31:40",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "05966": {
    "url": "https://kreis-olpe.de/output/download.php?fid=2041.547.1.PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:35:32",
+   "checked": "2026-11-28 03:31:41",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "05970": {
    "url": "https://www.siegen-wittgenstein.de/media/custom/2170_559_1.PDF?1439283444=",
    "state": "ok",
-   "checked": "2026-11-27 03:35:32",
+   "checked": "2026-11-28 03:31:42",
    "hash": "9ff2b839799c4993a96cc6e3cc9540d1ae85c5c3d29c0157e03d0e6af3879b36",
    "fails": 0,
    "kind": "pdf"
@@ -827,7 +826,7 @@
   "05974": {
    "url": "https://www.kreis-soest.de/fileadmin/user_upload/01_kreis-soest.de/Auto_und_Verkehr/Auto/PDF/Antrag_Zulassung-Privatperson.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:35:34",
+   "checked": "2026-11-28 03:31:43",
    "hash": "2d99af24c630767acb5a13835f0e6fec7619c5e0c1b4a190a226aa2a1d152e3e",
    "fails": 0,
    "kind": "pdf"
@@ -835,7 +834,7 @@
   "05978": {
    "url": "https://www.kreis-unna.de/loadDocument.phtml?FID=3674.1058.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:35:35",
+   "checked": "2026-11-28 03:31:44",
    "hash": "0c0ceff6fc8605dc01c1bf5ae630fb832e92057b5d9a991dda1d22e52c281744",
    "fails": 0,
    "kind": "pdf"
@@ -843,7 +842,7 @@
   "06411": {
    "url": "https://rathaus.darmstadt.de/public/getfile.php?iID=232&cHash=296ba38abc97839bc9c54904e7ebcd5a",
    "state": "ok",
-   "checked": "2026-11-27 03:35:38",
+   "checked": "2026-11-28 03:31:47",
    "hash": "d1783be81e24e0d5f4b73aa8cdc1b2bfb2d03dce219f954c7ba9146ed85bfc73",
    "fails": 0,
    "kind": "pdf"
@@ -851,15 +850,15 @@
   "06412": {
    "url": "https://frankfurt.de/-/media/frankfurtde/service-und-rathaus/verwaltung/aemter-und-institutionen/ordnungsamt/zulassungsbehoerde-fuer-kraftfahrzeuge/pdf/vollmacht.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:35:40",
+   "checked": "2026-11-28 03:31:48",
    "error": "HTTP 403",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "06413": {
    "url": "https://www.offenbach.de/vv/Kraftfahrzeugzulassung-Vollmacht-neu-privat.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:35:40",
+   "checked": "2026-11-28 03:31:49",
    "hash": "04618655c972d4d1fcf8b0e416283c6893d0d7f5af48924b8155c77ef7e0beec",
    "fails": 0,
    "kind": "pdf"
@@ -867,7 +866,7 @@
   "06414": {
    "url": "https://www.wiesbaden.de/vv/medien/formulare/34/Vollmacht-fuer-die-KfZ-Zulassungsbehoerde.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:35:42",
+   "checked": "2026-11-28 03:31:51",
    "hash": "28fab492251083a15456d89982279ea88985dae523da4a02a99afa6f2ff03d53",
    "fails": 0,
    "kind": "pdf"
@@ -875,7 +874,7 @@
   "06431": {
    "url": "https://www.kreis-bergstrasse.de/unser-buergerservice/verkehr-und-strasse/fahrzeugzulassungen/antraege/vollmacht-und-kfz-zulassungsantrag-mit-sepa-lastschriftmandat.pdf?cid=352x",
    "state": "ok",
-   "checked": "2026-11-27 03:35:44",
+   "checked": "2026-11-28 03:31:52",
    "hash": "b131b49749ce0b5e165d5e21b5b2289b7524bcb25e21b5f4d394f2589cf4bc12",
    "fails": 0,
    "kind": "pdf"
@@ -883,7 +882,7 @@
   "06432": {
    "url": "https://www.ladadi.de/leben-arbeiten/freizeit-verkehr/fuehrerschein-zulassung-verkehr/fahrzeugzulassung/antraege-leistungen/vollmacht.pdf?cid=bbh",
    "state": "ok",
-   "checked": "2026-11-27 03:35:47",
+   "checked": "2026-11-28 03:31:54",
    "hash": "d6b164fd9641dc601e90a76b384c8764630c1bf88ce07de80ccd77fdef347968",
    "fails": 0,
    "kind": "pdf"
@@ -891,7 +890,7 @@
   "06433": {
    "url": "https://www.kreisgg.de/fileadmin/Kommunal-_Buergerdienste/Verkehr/Formulare/Kfz_Vollmacht_2025.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:35:48",
+   "checked": "2026-11-28 03:31:55",
    "hash": "33d2fa5814869414796f74c1b56819b61dbdf3508ac8e15835d758109b78d09f",
    "fails": 0,
    "kind": "pdf"
@@ -899,13 +898,13 @@
   "06434": {
    "url": "https://www.hochtaunuskreis.de/output/download.php?fid=3419.3182.1.PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:35:50",
+   "checked": "2026-11-28 03:31:57",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "06435": {
    "url": "https://www.mkk.de/media/resources/pdf/mkk_de_1/buergerservice_1/lebenslagen_1/auto__verkehr_und_oepnv_1/32_zulassungsstelle_1/formulare/2025_Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:35:51",
+   "checked": "2026-11-28 03:31:58",
    "hash": "8a4f5b0b9ad887b40bcc9cd9c2d72878e449093bd88429a5f955054f98a04bc5",
    "fails": 0,
    "kind": "pdf"
@@ -913,7 +912,7 @@
   "06436": {
    "url": "https://include-he.zfinder.de/IWFileLoader?tsaid_fileId=359219329&tsaid_oeid=8975361",
    "state": "ok",
-   "checked": "2026-11-27 03:35:52",
+   "checked": "2026-11-28 03:31:59",
    "hash": "06094b7951d505bef498c958bc131e3086495ab147f340e27ed557e84db427b6",
    "fails": 0,
    "kind": "pdf"
@@ -921,7 +920,7 @@
   "06437": {
    "url": "https://www.odenwaldkreis.de/de/pdf/dienstleistungen/verkehr/vollmacht-neu-e-und-h.pdf?cid=eb1",
    "state": "ok",
-   "checked": "2026-11-27 03:35:54",
+   "checked": "2026-11-28 03:32:00",
    "hash": "1868408214266bd3d2b1f725c6f5d8d86b5d6fb836e7c28598ad973aebb80783",
    "fails": 0,
    "kind": "pdf"
@@ -929,7 +928,7 @@
   "06438": {
    "url": "https://www.kreis-offenbach.de/loadDocument.phtml?FID=1856.2759.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:35:55",
+   "checked": "2026-11-28 03:32:01",
    "hash": "711381ccb7e0dc4fda1dee0328449963f34e7f264bd55f21917e180a0a2ae48d",
    "fails": 0,
    "kind": "pdf"
@@ -937,15 +936,15 @@
   "06439": {
    "url": "https://www.rheingau-taunus.de/fileadmin/forms/zulassungsstelle/vollmacht.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:35:58",
+   "checked": "2026-11-28 03:32:03",
    "error": "HTTP 404",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "06440": {
    "url": "https://wetteraukreis.de/fileadmin/2_Service/auto_verkehr/Zulassung/Vollmacht_Zulassung_2026_.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:36:00",
+   "checked": "2026-11-28 03:32:04",
    "hash": "c8d1424ed57265c024f5445132db899ebfec51c94635aea1d5137caaa201172f",
    "fails": 0,
    "kind": "pdf"
@@ -953,7 +952,7 @@
   "06531": {
    "url": "https://www.lkgi.de/wp-content/uploads/2026/05/Antrag-auf-Zulassung-eines-Fahrzeugs-und-Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:36:02",
+   "checked": "2026-11-28 03:32:06",
    "hash": "fa3ea71845fc9a84bedc7868b1840968b55997d1cff4de510002441d016a2964",
    "fails": 0,
    "kind": "pdf"
@@ -961,7 +960,7 @@
   "06532": {
    "url": "https://www.lahn-dill-kreis.de/download/vollmacht-kfz-zulassung/?wpdmdl=21291&refresh=6b00d1fd238751795215869",
    "state": "ok",
-   "checked": "2026-11-27 03:36:04",
+   "checked": "2026-11-28 03:32:08",
    "hash": "0a6ac23ae5a7210d62e56b8eb4f05b43f7b4c172f9a90b9a59001fa413cb02ff",
    "fails": 0,
    "kind": "pdf"
@@ -969,7 +968,7 @@
   "06534": {
    "url": "https://www.marburg-biedenkopf.de/formularserver/auto_verkehr/Vollmacht_KFZ-Zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:36:06",
+   "checked": "2026-11-28 03:32:09",
    "hash": "1eb891cd4c087b0c2ddb271583192fca6c28fa8a49416ab24d694b1ef2a79401",
    "fails": 0,
    "kind": "pdf"
@@ -977,7 +976,7 @@
   "06535": {
    "url": "https://www.vogelsbergkreis.de/media/aao/zulassung/vollmacht.pdf?cid=mk4",
    "state": "ok",
-   "checked": "2026-11-27 03:36:08",
+   "checked": "2026-11-28 03:32:11",
    "hash": "63ce78ef7fb3a1d4a5330d0f9dd375ca3a8aa320535a86ee028147a1ce914122",
    "fails": 0,
    "kind": "pdf"
@@ -985,7 +984,7 @@
   "06632": {
    "url": "https://www.hef-rof.de/leben-in-hef-rof/kfz-verkehr/zulassungsstelle/vollmacht-kfz-zulassung-zusatz-20.03.2026.pdf?cid=d5p",
    "state": "ok",
-   "checked": "2026-11-27 03:36:09",
+   "checked": "2026-11-28 03:32:12",
    "hash": "00200b77223ef7081ebd038ed516a80278efc595adf851c20e5bb41974745c97",
    "fails": 0,
    "kind": "pdf"
@@ -993,13 +992,13 @@
   "06634": {
    "url": "https://www.schwalm-eder-kreis.de/city_info/display/dokument/show.cfm?region_id=105&id=410276",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:36:13",
+   "checked": "2026-11-28 03:32:15",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "06635": {
    "url": "https://www.landkreis-waldeck-frankenberg.de/informieren-beantragen/verwaltung-verstehen/fachdienste/verkehr/zulassungsstelle/vollmacht-und-antrag-fahrzeug-zulassung.pdf?cid=p0m",
    "state": "ok",
-   "checked": "2026-11-27 03:36:13",
+   "checked": "2026-11-28 03:32:16",
    "hash": "937f9b001cdda0be238cdd336cea21584b65bfb32f6d408887c3bd45f1ad992e",
    "fails": 0,
    "kind": "pdf"
@@ -1007,7 +1006,7 @@
   "06636": {
    "url": "https://www.werra-meissner-kreis.de/fileadmin/01_Homepage_Kreisverwaltung/Fachbereiche_und_Einrichtungen/FB3_Aufsicht_Ordnung_und_Verkehr/3.5_Strassenverkehrsbehoerde/Zulassungsstelle/Info_Formular.Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:36:16",
+   "checked": "2026-11-28 03:32:18",
    "hash": "5aaee347ae2def9585f612168ca579680470e7b9a0514e560321797b6b6500ee",
    "fails": 0,
    "kind": "pdf"
@@ -1015,7 +1014,7 @@
   "07131": {
    "url": "https://kreis-ahrweiler.de/wp-content/uploads/2021/04/SEPA-Mandat_vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:36:20",
+   "checked": "2026-11-28 03:32:21",
    "hash": "fa7ea5439d95cdeef49c3384dc05255795fbd8118f6df206c57a64801ecd6c18",
    "fails": 0,
    "kind": "pdf"
@@ -1023,7 +1022,7 @@
   "07132": {
    "url": "https://www.kreis-altenkirchen.de/media/custom/2154_145_1.PDF?1486618138=",
    "state": "ok",
-   "checked": "2026-11-27 03:36:21",
+   "checked": "2026-11-28 03:32:22",
    "hash": "819da0793b897fba19dcce8906c50d67e549fb6a74b728330add8d1ee9ed1ad1",
    "fails": 0,
    "kind": "pdf"
@@ -1031,7 +1030,7 @@
   "07133": {
    "url": "https://www.kreis-badkreuznach.de/fileadmin/media/downloads/02_Aemter/Amt_3_Sicherheit_Ordnung_und_Verkehr/Verkehr/zulassungsvollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:36:23",
+   "checked": "2026-11-28 03:32:24",
    "hash": "4a0da0d6786931d300efe1db6cc5e68a765210e49d67622a6ffe91c377892b88",
    "fails": 0,
    "kind": "pdf"
@@ -1039,13 +1038,13 @@
   "07134": {
    "url": "https://www.landkreis-birkenfeld.de/city_info/display/dokument/show.cfm?region_id=310&id=363911",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:36:25",
+   "checked": "2026-11-28 03:32:25",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "07135": {
    "url": "https://www.cochem-zell.de/themen/kfz-fuehrerschein-verkehr/kfz-zulassungsstelle/ikz-vollmacht-stand-022026-002.pdf?cid=1w21",
    "state": "ok",
-   "checked": "2026-11-27 03:36:25",
+   "checked": "2026-11-28 03:32:26",
    "hash": "f1979d64a227a295a49a626f2c0c7396b93e24318bebf5d7e615eefe198feaab",
    "fails": 0,
    "kind": "pdf"
@@ -1053,7 +1052,7 @@
   "07137": {
    "url": "https://www.kvmyk.de/buergerservice-views/leistungen/RLP:entry:99950:ANLR-VLR/kfz-zulassung-ummeldung-in-einen-anderen-zulassungsbezirk-mit-beantragung-eines-neuen-kennzeichens/",
    "state": "ok",
-   "checked": "2026-11-27 03:36:27",
+   "checked": "2026-11-28 03:32:28",
    "fails": 0,
    "kind": "html",
    "seite_links": 0
@@ -1061,7 +1060,7 @@
   "07138": {
    "url": "https://www.kreis-neuwied.de/buergerservice/formulare/kfz-zulassung/vollmacht-fuer-zulassungsangelegenheiten/",
    "state": "ok",
-   "checked": "2026-11-27 03:36:29",
+   "checked": "2026-11-28 03:32:30",
    "fails": 0,
    "kind": "html",
    "seite_links": 1
@@ -1069,7 +1068,7 @@
   "07140": {
    "url": "https://www.kv-rhk.de/buergerservice-views/leistungen/RLP:entry:9871027:ANLR-VLR/vollmacht-zur-zulassung-oder-umschreibung-eines-fahrzeugs/",
    "state": "ok",
-   "checked": "2026-11-27 03:36:32",
+   "checked": "2026-11-28 03:32:33",
    "fails": 0,
    "kind": "html",
    "seite_links": 1
@@ -1077,15 +1076,15 @@
   "07143": {
    "url": "https://www.westerwaldkreis.de/files/wwk/downloads/sicherheit-ordnung-verkehr/3-35_Vollmacht.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:36:34",
+   "checked": "2026-11-28 03:32:37",
    "error": "HTTP 404",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "07231": {
    "url": "https://rp.egovernor.de/api/datei/LuhDyOOzFi7EzUoYV5HP5",
    "state": "ok",
-   "checked": "2026-11-27 03:36:36",
+   "checked": "2026-11-28 03:32:38",
    "hash": "1342ceef5b9d9071336aa63ab76c359489c1604b52ce25f7672d2808db1b19ee",
    "fails": 0,
    "kind": "pdf"
@@ -1093,7 +1092,7 @@
   "07232": {
    "url": "https://www.bitburg-pruem.de/buergerservice-views/leistungen/RLP:entry:6303730:ANLR-VLR/erstzulassung-eines-fahrzeugs-neuzulassung-beantragen/",
    "state": "ok",
-   "checked": "2026-11-27 03:36:39",
+   "checked": "2026-11-28 03:32:41",
    "fails": 0,
    "kind": "html",
    "seite_links": 0
@@ -1101,7 +1100,7 @@
   "07233": {
    "url": "https://www.vulkaneifel.de/bilder/pdf/abteilung-1/vollmacht-kraftfahrzeugzulassung.docx?cid=k1",
    "state": "ok",
-   "checked": "2026-11-27 03:36:42",
+   "checked": "2026-11-28 03:32:43",
    "hash": "1e22d6b965e966e8fb15299d26be647d6b84ae35d5bee040342b24925b887270",
    "fails": 0,
    "kind": "docx"
@@ -1109,7 +1108,7 @@
   "07311": {
    "url": "https://rp.egovernor.de/api/datei/sUb2Dict4cfU7YC4x36SX",
    "state": "ok",
-   "checked": "2026-11-27 03:36:44",
+   "checked": "2026-11-28 03:32:45",
    "hash": "cea6e49e97b4236578108466f73c080dfd0c997afcdcd0e4f90e0f6ca2583435",
    "fails": 0,
    "kind": "pdf"
@@ -1117,7 +1116,7 @@
   "07312": {
    "url": "https://www.kaiserslautern.de/mb/themen/serviceportal/formulare/ruo/zulassungsvollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:36:45",
+   "checked": "2026-11-28 03:32:45",
    "hash": "1bed04dc236a389ed9f63bf002987f2b88659d0bb32e04532c0ac38d55124ddb",
    "fails": 0,
    "kind": "pdf"
@@ -1125,7 +1124,7 @@
   "07315": {
    "url": "https://www.mainz.de/vv/medien/internet/Zulassungsstelle-Antragstellung-Abholung-Fahrzeugpapiere-Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:36:47",
+   "checked": "2026-11-28 03:32:46",
    "hash": "7d1baac184c856447ce64c7a5fb8d0976f2c092a13c1a1e558fbcac7e53e9fae",
    "fails": 0,
    "kind": "pdf"
@@ -1133,7 +1132,7 @@
   "07316": {
    "url": "https://www.neustadt.eu/media/custom/2579_689_1.PDF?1487934281=",
    "state": "ok",
-   "checked": "2026-11-27 03:36:48",
+   "checked": "2026-11-28 03:32:47",
    "hash": "af11b3194bb56650ecfe1370bbd618f56d48e1e61d676c7e581190e4086666c6",
    "fails": 0,
    "kind": "pdf"
@@ -1141,7 +1140,7 @@
   "07317": {
    "url": "https://www.pirmasens.de/downloads/ordnungsamt/vollmacht.pdf?cid=707",
    "state": "ok",
-   "checked": "2026-11-27 03:36:50",
+   "checked": "2026-11-28 03:32:49",
    "hash": "4e054da870d7b61801b03bdcd85b276f172d5e48ebff65db27df335c4ed0422f",
    "fails": 0,
    "kind": "pdf"
@@ -1149,15 +1148,15 @@
   "07318": {
    "url": "https://www.speyer.de/de/standort/wirtschaftsfoerderung/wirtschaftsfoerderung/gewerbeformulare/vollmacht-kfz-zulassung-ausfuellbar.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:36:52",
+   "checked": "2026-11-28 03:32:50",
    "error": "HTTP 404",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "07319": {
    "url": "https://www.worms.de/neu-de-wAssets/docs/formulare/Taris/Bereich_3/Vollmacht_KFZ_1.doc",
    "state": "ok",
-   "checked": "2026-11-27 03:36:54",
+   "checked": "2026-11-28 03:32:52",
    "hash": "82ff0b078feb63187bc978594894c39de91f4ebe63a483cad49e1a9e51de1e5e",
    "fails": 0,
    "kind": "doc"
@@ -1165,7 +1164,7 @@
   "07320": {
    "url": "https://www.zweibruecken.de/de/verwaltung/formularservice/32-kfz-vollmacht-zulassung.pdf?cid=17e7",
    "state": "ok",
-   "checked": "2026-11-27 03:36:55",
+   "checked": "2026-11-28 03:32:53",
    "hash": "84dcbb7def4ba6b1debd62f5ce0d28a0474477d2e751ec9b35f5da774ff7b661",
    "fails": 0,
    "kind": "pdf"
@@ -1173,7 +1172,7 @@
   "07332": {
    "url": "https://rp.egovernor.de/api/datei/IvwGMs0gL53wMhCHpMW8c",
    "state": "ok",
-   "checked": "2026-11-27 03:36:57",
+   "checked": "2026-11-28 03:32:54",
    "hash": "ac80e69b4777e45751227be886f767a029efc49a154654d3c48aec18025f6cee",
    "fails": 0,
    "kind": "pdf"
@@ -1181,7 +1180,7 @@
   "07334": {
    "url": "https://www.kreis-germersheim.de/buergerservice/ordnung-verkehr-wirtschaft-tourismus/kfz-zulassung-fuehrerscheinstelle-verkehr-oepnv/kfz-zulassung/",
    "state": "ok",
-   "checked": "2026-11-27 03:36:58",
+   "checked": "2026-11-28 03:32:55",
    "fails": 0,
    "kind": "html",
    "seite_links": 0
@@ -1189,7 +1188,7 @@
   "07335": {
    "url": "https://www.kaiserslautern-kreis.de/verwaltung/ordnung-verkehr-und-schulen/verkehrswesen/kfz-zulassung/standardfaelle-zulassungswesen/unterlagen/zulassung-bevollmaechtigte.pdf?cid=39a",
    "state": "ok",
-   "checked": "2026-11-27 03:37:04",
+   "checked": "2026-11-28 03:33:01",
    "hash": "a349e8005db2f20f4dc5eec5ea4234f8e8f9f9d9a4796f63d8a0a847490a90c1",
    "fails": 0,
    "kind": "pdf"
@@ -1197,7 +1196,7 @@
   "07336": {
    "url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/ordnung-verkehr/zulassungsstelle/vollmacht-2025.pdf?cid=hsp",
    "state": "ok",
-   "checked": "2026-11-27 03:37:05",
+   "checked": "2026-11-28 03:33:03",
    "hash": "40c3560ddf63b016389cc2a139e6853ed819490fa8369b015c94ffe86c7af377",
    "fails": 0,
    "kind": "pdf"
@@ -1205,7 +1204,7 @@
   "07337": {
    "url": "https://www.suedliche-weinstrasse.de/Buergerservice/leistungen/RLP:entry:5132341:ANLR-VLR/kfz-neuzulassung/",
    "state": "ok",
-   "checked": "2026-11-27 03:37:08",
+   "checked": "2026-11-28 03:33:06",
    "fails": 0,
    "kind": "html",
    "seite_links": 0
@@ -1213,7 +1212,7 @@
   "07339": {
    "url": "https://www.mainz-bingen.de/default-wAssets/docs/Arbeit-Mobilitaet-Wirtschaft/Kfz_Zulassung/Vollmacht-fuer-Fahrzeugzulassungen.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:13",
+   "checked": "2026-11-28 03:33:08",
    "hash": "634a282fad809e5f9996473bc037adfe9660fd3c0e90ce1d26b04202ea64bf73",
    "fails": 0,
    "kind": "pdf"
@@ -1221,7 +1220,7 @@
   "07340": {
    "url": "https://www.lksuedwestpfalz.de/pdf/downloads/vollmacht-und-sepa-mandat-stand-01.04.2026.pdf?cid=s61",
    "state": "ok",
-   "checked": "2026-11-27 03:37:14",
+   "checked": "2026-11-28 03:33:09",
    "hash": "a47cebd8b221c0d9ec85fe3db1b1274d4fb314242d6ddf149c8246a92c86019a",
    "fails": 0,
    "kind": "pdf"
@@ -1229,7 +1228,7 @@
   "08111": {
    "url": "https://www.stuttgart.de/medien/ibs/32-33-1272.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:16",
+   "checked": "2026-11-28 03:33:11",
    "hash": "5b0b2779cea6124ac874345bbfd9dc6a177a805b487d1a0db352dfaa595c44de",
    "fails": 0,
    "kind": "pdf"
@@ -1237,7 +1236,7 @@
   "08115": {
    "url": "https://www.lrabb.de/site/LRA-BB-2018/get/params_E1072845058/14603323/Vollmacht.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:37:17",
+   "checked": "2026-11-28 03:33:12",
    "error": "HTTP 503",
    "candidates": [
     {
@@ -1246,12 +1245,12 @@
      "score": 3
     }
    ],
-   "fails": 3
+   "fails": 4
   },
   "08116": {
    "url": "https://www.landkreis-esslingen.de/site/LRA-ES-Internet-2019/get/documents_E1454207267/lra-es/Mediathek-LRA-Esslingen/Lra/23-156%20Kfz-Zulassungsantrag%20Stand%2003.2026.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:19",
+   "checked": "2026-11-28 03:33:14",
    "hash": "25eb375c0ec9d6bc3741e27d83c5707d351f389dca82e959082e5476410982bf",
    "fails": 0,
    "kind": "pdf"
@@ -1259,7 +1258,7 @@
   "08117": {
    "url": "https://www.landkreis-goeppingen.de/site/LRA-GP-Internet-2024/get/params_E75950617/22296590/Vollmacht_Zulassung_av.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:21",
+   "checked": "2026-11-28 03:33:15",
    "hash": "76f37a57f409240a2f1406e72c483e22de6e8942cfabeeee114a6c8ba1161a53",
    "fails": 0,
    "kind": "pdf"
@@ -1267,7 +1266,7 @@
   "08118": {
    "url": "https://www.landkreis-ludwigsburg.de/fileadmin/user_upload/seiteninhalte/verkehr-sicherheit/auto-kfz/kfz-zulassung/Vollmacht_NEU.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:23",
+   "checked": "2026-11-28 03:33:17",
    "hash": "d6afdec1bd5884ac3680426d667f5aa9c698e47a683547c5425abb13caf7c0d4",
    "fails": 0,
    "kind": "pdf"
@@ -1275,7 +1274,7 @@
   "08119": {
    "url": "https://www.rems-murr-kreis.de/fileadmin/Dateien/Dateien/Aemter/Amt_fuer_Zulassung_und_Fahrerlaubnis/Zulassung_aktuell/Zulassungsantrag_NEU.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:37:25",
+   "checked": "2026-11-28 03:33:18",
    "error": "HTTP 404",
    "candidates": [
     {
@@ -1284,12 +1283,12 @@
      "score": 4
     }
    ],
-   "fails": 3
+   "fails": 4
   },
   "08121": {
    "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/kfz_zulassungsstelle/2024-07-31_Antrag_und_Vollmacht_Zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:27",
+   "checked": "2026-11-28 03:33:20",
    "hash": "582dd31c805be77055baae1d9b37b57fd65f37d2b2c7497bf33b20465cb93572",
    "fails": 0,
    "kind": "pdf"
@@ -1297,7 +1296,7 @@
   "08125": {
    "url": "https://service.landkreis-heilbronn.de/site/Landkreis-Heilbronn_Service/get/documents_E428967488/lrahn/Landkreis-Heilbronn-Dateien/Dienstleistungen/Zulassung/Vollmacht%20und%20Zulassungsantrag.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:28",
+   "checked": "2026-11-28 03:33:21",
    "hash": "abe798a277e1cb7b10d1acce0a96109477ba07d3b11d16ecc07908e30931146f",
    "fails": 0,
    "kind": "pdf"
@@ -1305,7 +1304,7 @@
   "08126": {
    "url": "https://www.hohenlohekreis.de/site/Hohenlohekreis/get/documents_E-1491549240/hohenlohekreis/Dateien/Stra%C3%9Fenverkehrsamt/Zulassung%20durch%20Dritte%20mit%20Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:30",
+   "checked": "2026-11-28 03:33:23",
    "hash": "0214ce129e42f81091079e421d46355f1f62e3806cef759c501e37401932f5d5",
    "fails": 0,
    "kind": "pdf"
@@ -1313,7 +1312,7 @@
   "08127": {
    "url": "https://formulare.lrasha.de/03_Verkehr___Ordnung/Zulassung/Zulassungsantrag_2._Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:32",
+   "checked": "2026-11-28 03:33:25",
    "hash": "f755dc82088d1a4f089c05001a676aa9355cf8f0a1488ac8915ae631b52473dd",
    "fails": 0,
    "kind": "pdf"
@@ -1321,7 +1320,7 @@
   "08128": {
    "url": "https://www.main-tauber-kreis.de/media/custom/2177_3075_1.PDF?1628769983=",
    "state": "ok",
-   "checked": "2026-11-27 03:37:34",
+   "checked": "2026-11-28 03:33:26",
    "hash": "db0dcbd5a8f54ff3d4280eba0d35b83da1bedd628ba8278695ec072443571be9",
    "fails": 0,
    "kind": "pdf"
@@ -1329,7 +1328,7 @@
   "08135": {
    "url": "https://www.landkreis-heidenheim.de/site/LRA-HDH-Internet/get/documents_E1617962736/lra-hdh/LRA_HDH_Bibliothek_Internet/Formulare/Kfz-Zulassung/Vollmacht%20f%C3%BCr%20Zulassungsvorg%C3%A4nge%20%28PDF%29.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:36",
+   "checked": "2026-11-28 03:33:27",
    "hash": "30d8a4d35dd768e808ac290329861ff137f41f7d4652540f8946b2db213ba321",
    "fails": 0,
    "kind": "pdf"
@@ -1337,7 +1336,7 @@
   "08136": {
    "url": "https://www.ostalbkreis.de/sixcms/media.php/26/Antrag-Vollmacht-KfzZulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:38",
+   "checked": "2026-11-28 03:33:30",
    "hash": "05f58ac82d98cc3d87f03ece8ebf5c77d52a4a0f2ba79c86ec8e63a589d6a79e",
    "fails": 0,
    "kind": "pdf"
@@ -1345,13 +1344,13 @@
   "08211": {
    "url": "https://formulare.virtuelles-rathaus.de/servlet/com.burg.pdf.FillServlet?param1=08211000-01-0005&query=1&knr=08211000-01&template=122602bad&send=0&save=1&import=1&a=a.pdf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:37:40",
+   "checked": "2026-11-28 03:33:31",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "08212": {
    "url": "https://web1.karlsruhe.de/service/Formulare/ordnungsamt/Antrag_auf_Zulassung_KFZ_Stadt_Karlsruhe.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:40",
+   "checked": "2026-11-28 03:33:32",
    "hash": "ac205f800192b1f643e89ba4809468663b0059768843848b5cf490ea16f61d0a",
    "fails": 0,
    "kind": "pdf"
@@ -1359,13 +1358,13 @@
   "08215": {
    "url": "https://formulare.virtuelles-rathaus.de/forms/frm/DRtNJHJ8zzNQ9zfMctT3dxfrHgkG6x",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:37:42",
+   "checked": "2026-11-28 03:33:33",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "08216": {
    "url": "https://www.landkreis-rastatt.de/site/kreis-rastatt-2021/get/documents_E1088164331/kreis-rastatt/Objekte/04_Service/Formulare%20%26%20Vordrucke/Zulassungsantrag.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:42",
+   "checked": "2026-11-28 03:33:33",
    "hash": "5b08b4c8ed67166e40660be831261ee74f20df031c4aa75fbcdd40e86efd435b",
    "fails": 0,
    "kind": "pdf"
@@ -1373,13 +1372,13 @@
   "08221": {
    "url": "https://formulare.virtuelles-rathaus.de/forms/frm/TpTFvr1V6t4X4mdmqmVaARKc4HH4F7",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:37:45",
+   "checked": "2026-11-28 03:33:36",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "08222": {
    "url": "https://www.mannheim.de/sites/default/files/2022-01/220104VollmachtNEU_10.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:45",
+   "checked": "2026-11-28 03:33:36",
    "hash": "86c9d924d07035edf6ac5e3402fa6e646e114128a0d653ac52aa1842dca6be95",
    "fails": 0,
    "kind": "pdf"
@@ -1387,13 +1386,13 @@
   "08226": {
    "url": "https://pdf.form-solutions.net/forms/frm/h6x3jH39TPmA7h78NRN3MAVrGndg8Zf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:37:47",
+   "checked": "2026-11-28 03:33:37",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "08231": {
    "url": "https://www.pforzheim.de/fileadmin/user_upload/dldb/afoeo/vollmacht_fahrzeugzulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:47",
+   "checked": "2026-11-28 03:33:37",
    "hash": "6689894394d4b5376a0f255e57b1bc8e8dd3936c28ce778bb0375f9772a44c76",
    "fails": 0,
    "kind": "pdf"
@@ -1401,7 +1400,7 @@
   "08235": {
    "url": "https://www.kreis-calw.de/media/custom/2442_8351_1.PDF?1637307086=",
    "state": "ok",
-   "checked": "2026-11-27 03:37:49",
+   "checked": "2026-11-28 03:33:39",
    "hash": "6399335f0eb4282c4aff5c033eb15f84eb87a9c525da7cefcf624fa4155e6402",
    "fails": 0,
    "kind": "pdf"
@@ -1409,14 +1408,14 @@
   "08236": {
    "url": "https://www.enzkreis.de/loadDocument.phtml?ObjSvrID=2032&ObjID=1922&ObjLa=1",
    "state": "ok",
-   "checked": "2026-11-27 03:37:51",
+   "checked": "2026-11-28 03:33:40",
    "fails": 0,
    "kind": "html"
   },
   "08237": {
    "url": "https://www.kreis-fds.de/site/Landkreis-Freudenstadt-2024/get/documents_E-905215876/landkreis-freudenstadt/Dateien/04_Informationen/Dezernat-3/Amt-33-Amt-fuer-Ordnung-und-Verkehr/33_12/33-12-2023-09-Zulassungsantrag-DSGVO-mit%20SEPA-Mandat.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:54",
+   "checked": "2026-11-28 03:33:43",
    "hash": "72009d9a5adabe88f5e44eb626ecc1a11f475c9bf22eb7cb9c702daaa08c2ad0",
    "fails": 0,
    "kind": "pdf"
@@ -1424,7 +1423,7 @@
   "08315": {
    "url": "https://www.breisgau-hochschwarzwald.de/site/Breisgau-Hochschwarzwald-ROOT/get/documents_E-1154049730/breisgau-hochschwarzwald/Dateien/Formulare/Kfz-Zulassung/SEPA-Mandat_Kfz-Zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:37:56",
+   "checked": "2026-11-28 03:33:45",
    "hash": "105bb9c0840f98d0b481047059bdb1f604135d6ef5bc5ba21f7179607a999a55",
    "fails": 0,
    "kind": "pdf"
@@ -1432,7 +1431,7 @@
   "08316": {
    "url": "https://service.landkreis-emmendingen.de/digitale-services/formulare/sbw-6034249/vollmacht-fuer-die-zulassung-eines-kraftfahrzeugs",
    "state": "ok",
-   "checked": "2026-11-27 03:37:58",
+   "checked": "2026-11-28 03:33:47",
    "hash": "c1542e5f3d1191e728c083e042be8aa485b9abbeee64a462bf6e59b0671cf407",
    "fails": 0,
    "kind": "pdf"
@@ -1440,13 +1439,13 @@
   "08317": {
    "url": "https://www.ortenaukreis.de/output/download.php?fid=3406.293.PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:38:01",
+   "checked": "2026-11-28 03:33:49",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "08325": {
    "url": "https://www.landkreis-rottweil.de/ceasy/resource/?id=16355&download=1",
    "state": "ok",
-   "checked": "2026-11-27 03:38:02",
+   "checked": "2026-11-28 03:33:49",
    "hash": "45dfbee72c28b3ab1f6126ee9348cdc7e326f5207ceff0b0203eb68982aa66d7",
    "fails": 0,
    "kind": "pdf"
@@ -1454,7 +1453,7 @@
   "08326": {
    "url": "https://www.lrasbk.de/media/custom/2961_8962_1.PDF?1750157031",
    "state": "ok",
-   "checked": "2026-11-27 03:38:03",
+   "checked": "2026-11-28 03:33:51",
    "hash": "a6ac8bc40ee0e96d69810971a53ad6d49fdc66190df303106861cb27a04bcbb7",
    "fails": 0,
    "kind": "pdf"
@@ -1462,7 +1461,7 @@
   "08327": {
    "url": "https://www.landkreis-tuttlingen.de/PDF/Vollmacht.PDF?ObjSvrID=2527&ObjID=3243&ObjLa=1&Ext=PDF&WTR=1&_ts=1713512832",
    "state": "ok",
-   "checked": "2026-11-27 03:38:05",
+   "checked": "2026-11-28 03:33:52",
    "hash": "95e3a0beeda04d7f7eebb9bf2f1a13d77d486dc754b7082be6a07a5ae595670f",
    "fails": 0,
    "kind": "pdf"
@@ -1470,7 +1469,7 @@
   "08335": {
    "url": "https://www.lrakn.de/site/lrakn/get/documents_E-1144081978/lrakn/Objekte/Strassenverkehr/Kfz-Zulassungsstelle/2020/Antrag_Zulassung_mit_Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:07",
+   "checked": "2026-11-28 03:33:53",
    "hash": "d86a15ad3f4d7e41d9a5d61de0c18a038d0722cdb04a63d52657cd71f0d2ca6e",
    "fails": 0,
    "kind": "pdf"
@@ -1478,7 +1477,7 @@
   "08336": {
    "url": "https://www.loerrach-landkreis.de/ceasy/serve/usage/main.php?view=publish&item=form&id=1267",
    "state": "ok",
-   "checked": "2026-11-27 03:38:09",
+   "checked": "2026-11-28 03:33:55",
    "hash": "ea877f1a9c6f2b383b5093cb3a9e8e854786c14f0a722b075023a25b18a3453e",
    "fails": 0,
    "kind": "pdf"
@@ -1486,7 +1485,7 @@
   "08337": {
    "url": "https://www.landkreis-waldshut.de/fileadmin/Sammlung_fuer_Aemter/Strassenverkehr/KFZ_Zulassung/Vollmacht_ausfuellbar_Homepage.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:10",
+   "checked": "2026-11-28 03:33:56",
    "hash": "8d34455f6212dac78df7a43b7f1379fe9925677c98176d00e6f93fa1c52db10a",
    "fails": 0,
    "kind": "pdf"
@@ -1494,7 +1493,7 @@
   "08415": {
    "url": "https://www.kreis-reutlingen.de/resources/02%20Datenobjekte/E-B%C3%BCrgerservice/Formulare-Online-Prozesse/Microsoft_Word_-_Vollmacht_Vordruck.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:12",
+   "checked": "2026-11-28 03:33:58",
    "hash": "73f171f6ad87ee8e864df53a017d886faa55e30fa70bbde69e00a7123ae8e28d",
    "fails": 0,
    "kind": "pdf"
@@ -1502,7 +1501,7 @@
   "08416": {
    "url": "https://www.kreis-tuebingen.de/site/LRA-Tuebingen-Internet-2022/get/documents_E-1502868489/lra_tuebingen/Objekte_Internet/06_Bauen_Verkehr/06_Verkehr_Kfz_Zulassung_sbw/Vollmacht_Kfzzulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:14",
+   "checked": "2026-11-28 03:34:00",
    "hash": "37a169c953ec245fb907789e2ad2c4fde62fb67d12ca1b8b31d89fa52dd56342",
    "fails": 0,
    "kind": "pdf"
@@ -1510,7 +1509,7 @@
   "08417": {
    "url": "https://www.zollernalbkreis.de/site/LRA-ZAK-2017/get/documents_E1237012517/lra_zak/LRA-ZAK-2018-Objekte/Amt/Verkehrsamt/Zulassungsstelle/Antrag%20Kfz-Zulassung%20mit%20SEPA%20%285%29.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:16",
+   "checked": "2026-11-28 03:34:01",
    "hash": "b7ae8817dafae0925e8fbcc4ef7c02106a0e37e6d83459cb7afe3d7b74e1052f",
    "fails": 0,
    "kind": "pdf"
@@ -1518,7 +1517,7 @@
   "08421": {
    "url": "https://www.zulassung-ulm.de/fileadmin/Website/Dateien/Formulare/Kfz-Zulassung_Alb-Donau-Kreis_Ulm-Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:18",
+   "checked": "2026-11-28 03:34:03",
    "hash": "0e0310e058fc7ada04c6e30fbd2aa6716c30a7dcfb451e25e7b3a8972a85a070",
    "fails": 0,
    "kind": "pdf"
@@ -1526,7 +1525,7 @@
   "08425": {
    "url": "https://www.zulassung-ulm.de/fileadmin/Website/Dateien/Formulare/Kfz-Zulassung_Alb-Donau-Kreis_Ulm-Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:19",
+   "checked": "2026-11-28 03:34:04",
    "hash": "0e0310e058fc7ada04c6e30fbd2aa6716c30a7dcfb451e25e7b3a8972a85a070",
    "fails": 0,
    "kind": "pdf"
@@ -1534,7 +1533,7 @@
   "08426": {
    "url": "https://www.biberach.de/ceasy/serve/usage/main.php?view=publish&item=form&id=1098",
    "state": "ok",
-   "checked": "2026-11-27 03:38:21",
+   "checked": "2026-11-28 03:34:06",
    "hash": "ff74fa5ff16f833d9282e11101bed25b4ea07e0d35b4d9ea19e8f8861d7b8315",
    "fails": 0,
    "kind": "pdf"
@@ -1542,7 +1541,7 @@
   "08435": {
    "url": "https://www.bodenseekreis.de/fileadmin/02_verkehr_wirtschaft/fahrzeug-zulassung/downloads/antrag_zulassung_qr_terminvereinbarung_sepa.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:23",
+   "checked": "2026-11-28 03:34:07",
    "hash": "5cb4616abc0cb7cd0fae2456ebc33a0d72f07046819ed41c3d26b2344eee158f",
    "fails": 0,
    "kind": "pdf"
@@ -1550,7 +1549,7 @@
   "08436": {
    "url": "https://www.rv.de/site/LRA_RV_Responsive/get/documents_E731292689/chancenpool/LRA_Ravensburg_Objekte/01-Ihr%20Anliegen/Fahrzeugzulassung/Formular%20Vollmacht%20mit%20SEPA-Lastschriftmandat.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:25",
+   "checked": "2026-11-28 03:34:09",
    "hash": "a598dd0d92f1f0e4d072fd83a578a14a7368be3e9ded2f63949c2c28f8333880",
    "fails": 0,
    "kind": "pdf"
@@ -1558,7 +1557,7 @@
   "08437": {
    "url": "https://www.landkreis-sigmaringen.de/ceasy/serve/usage/main.php?view=publish&item=form&id=1258",
    "state": "ok",
-   "checked": "2026-11-27 03:38:28",
+   "checked": "2026-11-28 03:34:11",
    "hash": "d3324d5f89d4488ba2e0a7b92b2cfd07bad311f961aad12e67a522200c744af6",
    "fails": 0,
    "kind": "pdf"
@@ -1566,7 +1565,7 @@
   "09161": {
    "url": "https://www.ingolstadt.de/loadDocument.phtml?FID=465.9994.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:38:30",
+   "checked": "2026-11-28 03:34:13",
    "hash": "781c17846b4c7315ee6b50df79b972828006c838c34dc8c7aafef2745130add0",
    "fails": 0,
    "kind": "pdf"
@@ -1574,7 +1573,7 @@
   "09162": {
    "url": "https://stadt.muenchen.de/dms/Home/Stadtverwaltung/Kreisverwaltungsreferat/fachspezifisch/HA-III/Dokumente/Kfz-Zulassung/Zulassungsvollmacht",
    "state": "ok",
-   "checked": "2026-11-27 03:38:32",
+   "checked": "2026-11-28 03:34:15",
    "hash": "b37f6c971c3df5cdd7e055f757b7647b8597bb9e8e14245a8a8d69197429b937",
    "fails": 0,
    "kind": "pdf"
@@ -1582,7 +1581,7 @@
   "09163": {
    "url": "https://www.rosenheim.de/fileadmin/Buergerservice/Verkehr/KFZ_Zulassung/Vollmacht_neu.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:35",
+   "checked": "2026-11-28 03:34:17",
    "hash": "1f025c6f1095a7ab4d1eaed5319219ef12cc65bfa3b5599ff698508ab49ad88b",
    "fails": 0,
    "kind": "pdf"
@@ -1590,14 +1589,14 @@
   "09171": {
    "url": "http://www.ck-dataservices.de/formoffice/get.front?client=lkr-aoe&form=985",
    "state": "ok",
-   "checked": "2026-11-27 03:38:37",
+   "checked": "2026-11-28 03:34:18",
    "fails": 0,
    "kind": "html"
   },
   "09172": {
    "url": "https://www.lra-bgl.de/fileadmin/user_upload/content/doc/Sicherheit_und_Verkehr/Kfz-Zulassung/Vollmacht_NEU.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:38:39",
+   "checked": "2026-11-28 03:34:20",
    "hash": "4f30fa3f7802270806481381b797f93740a5a7a840548d6ff52fa94d909339c1",
    "fails": 0,
    "kind": "pdf"
@@ -1605,7 +1604,7 @@
   "09173": {
    "url": "https://lra-toelz.de/vollmacht-1",
    "state": "ok",
-   "checked": "2026-11-27 03:38:41",
+   "checked": "2026-11-28 03:34:21",
    "hash": "109812b88cb2c2c7da25f0281b300167b6fb4f52b83917cd0e6bf84d002bd04d",
    "fails": 0,
    "kind": "pdf"
@@ -1613,7 +1612,7 @@
   "09174": {
    "url": "https://www.landratsamt-dachau.de/media/3393/vollmacht-mit-sepa-kombimandat.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:38:48",
+   "checked": "2026-11-28 03:34:27",
    "error": "HTTP 404",
    "candidates": [
     {
@@ -1642,35 +1641,36 @@
      "score": 1
     }
    ],
-   "fails": 3
+   "fails": 4
   },
   "09175": {
    "url": "https://schwanger.lra-ebe.de/hostedmedia/4267/vollmacht_kfz-zulassung.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:38:50",
+   "checked": "2026-11-28 03:34:28",
    "error": "URLError: <urlopen error timed out>",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "09176": {
    "url": "https://www.landkreis-eichstaett.de/fileadmin/Dateien/Website/Dateien/SG_52_Verkehrswesen_KFZ/Zulassungsvollmacht_inkl._SEPA.pdf_03-2026.pdf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:39:25",
+   "checked": "2026-11-28 03:35:04",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "09177": {
    "url": "https://www.landkreis-erding.de/media/22141/vollmacht_kfz_zulassung.pdf",
-   "state": "stoerung",
-   "checked": "2026-11-27 03:39:26",
+   "state": "defekt",
+   "checked": "2026-11-28 03:35:04",
    "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.",
+   "candidates": [],
    "hash": "4cdfa6e2f4fd4a6669b6b55d59234a428072f08167eb8bd3c6e1c875ea5501a5",
-   "fails": 1,
+   "fails": 2,
    "kind": "pdf"
   },
   "09178": {
    "url": "https://www.kreis-freising.de/fileadmin/user_upload/Aemter/Strassenverkehrsamt/Zulassungsvollmacht_NEU_beschriftbar.PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:39:26",
+   "checked": "2026-11-28 03:35:09",
    "hash": "3ed5be221d72f69574806f725791535ddd8a0e1ebf07cd81360868d35e3a57c7",
    "fails": 0,
    "kind": "pdf"
@@ -1678,21 +1678,22 @@
   "09179": {
    "url": "https://forms.lra-ffb.de/frontend-server/form/provide/6204/",
    "state": "defekt",
-   "checked": "2026-11-27 03:39:28",
+   "checked": "2026-11-28 03:35:11",
    "error": "URLError: <urlopen error timed out>",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "09180": {
    "url": "https://www.lra-gap.de/media/files/lra_kfz-verkehr_formulare/Vollmacht_Einzelperson_Einzelunternehmen.pdf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:40:04",
+   "checked": "2026-11-28 03:35:46",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "09181": {
    "url": "https://kxp.landkreis-landsberg.de//Dox.aspx?docid=90d682c0-d76f-43be-b438-636c1ea23014&mode=direct&orgid=8f4d4242-1c1e-4fdb-9c9d-4369ea86d292",
-   "state": "ok",
-   "checked": "2026-11-27 03:40:04",
+   "state": "nicht_pruefbar",
+   "checked": "2026-11-28 03:35:46",
+   "error": "Website erlaubt keinen automatischen Abruf (robots.txt)",
    "hash": "8baea58fa2d52e57ce669d899ddf03e26b6f516868e18b19262b81eb2cca6c21",
    "fails": 0,
    "kind": "pdf"
@@ -1700,34 +1701,34 @@
   "09182": {
    "url": "https://www.landkreis-miesbach.de/output/download.php?file=%2Fmedia%2Fcustom%2F221_564_1.PDF%3F1538047996&fn=23-2-voll",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:40:31",
+   "checked": "2026-11-28 03:35:47",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "09183": {
    "url": "http://www.ck-dataservices.de/formoffice/get.front?client=lkr-mue&form=2618",
    "state": "ok",
-   "checked": "2026-11-27 03:40:32",
+   "checked": "2026-11-28 03:35:48",
    "fails": 0,
    "kind": "html"
   },
   "09184": {
    "url": "https://formulare.landkreis-muenchen.de/cdm/cfs/eject/req?MANDANTID=72&FORMID=5420&LEGALFP=304",
    "state": "defekt",
-   "checked": "2026-11-27 03:40:34",
+   "checked": "2026-11-28 03:35:49",
    "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "09185": {
    "url": "https://neuburg-schrobenhausen.de/output/download.php?fid=3453.184.1.PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:40:35",
+   "checked": "2026-11-28 03:35:51",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "09187": {
    "url": "https://www.landkreis-rosenheim.de/download/1038/neufahrzeuge-aus-dem-in-und-ausland/37349/vollmacht-kfz-zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:40:36",
+   "checked": "2026-11-28 03:35:51",
    "hash": "7ee102beb2317c219b4d406e00e05736c33dc14e431f322a80533e6547b94b8e",
    "fails": 0,
    "kind": "pdf"
@@ -1735,7 +1736,7 @@
   "09188": {
    "url": "https://www.lk-starnberg.de/media/custom/613_537_1.PDF?1736414477",
    "state": "ok",
-   "checked": "2026-11-27 03:40:40",
+   "checked": "2026-11-28 03:35:56",
    "hash": "de51f3be19f906ef0eaa7d2b1a1b20e3011883d0a2fe211f017967f5abdba8b4",
    "fails": 0,
    "kind": "pdf"
@@ -1743,29 +1744,30 @@
   "09189": {
    "url": "https://fastforms.de/cirali/cfs/eject/pdf/20523.pdf?MANDANTID=27&FORMUID=LRA-TS-163",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:40:41",
+   "checked": "2026-11-28 03:35:57",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "09190": {
    "url": "https://www.weilheim-schongau.de/landratsamt/geschaeftsverteilungsplan/?Zulassungsstelle&view=org&orgid=6b37cb9c-4f99-403f-a7c4-a9eb516edcc5",
    "state": "ok",
-   "checked": "2026-11-27 03:40:42",
+   "checked": "2026-11-28 03:35:57",
    "fails": 0,
    "kind": "html",
    "seite_links": 1
   },
   "09261": {
    "url": "https://landshut.de/sites/default/files/filemanager/Benutzerdaten/La1/Zulassungsvollmacht%20KFZ.pdf",
-   "state": "ok",
-   "checked": "2026-11-27 03:40:44",
+   "state": "stoerung",
+   "checked": "2026-11-28 03:35:59",
+   "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>",
    "hash": "9ac0aed62df2304989361c71d7ebebdd54aefae02c01c0af7621597c253f9c5e",
-   "fails": 0,
+   "fails": 1,
    "kind": "pdf"
   },
   "09262": {
    "url": "https://www.passau.de/fileadmin/Homepage_Stadt_Passau/2._Rathaus_und_Buergerservice/Buergerservice/Downloadcenter/Formulare_und_Antraege/18-07-09_Vollmacht_Zulassung_KFZ.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:40:46",
+   "checked": "2026-11-28 03:36:00",
    "hash": "cdfa7c0400ab65b34aa2501aed1ddb41b1349749f796797b475f14be57fab5e2",
    "fails": 0,
    "kind": "pdf"
@@ -1773,7 +1775,7 @@
   "09263": {
    "url": "https://www.straubing.de/media/www.straubing.de/org/med_1969/2354_anlage4-vollmacht-allgemein.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:40:47",
+   "checked": "2026-11-28 03:36:01",
    "hash": "a07cd3d901623fe4c63acb065db7c291b1dfcb4c3e5cf92b265885ae85c823eb",
    "fails": 0,
    "kind": "pdf"
@@ -1781,7 +1783,7 @@
   "09271": {
    "url": "https://www.landkreis-deggendorf.de/amt-service/formulare-merkblaetter/",
    "state": "ok",
-   "checked": "2026-11-27 03:40:49",
+   "checked": "2026-11-28 03:36:02",
    "fails": 0,
    "kind": "html",
    "seite_links": 0
@@ -1789,7 +1791,7 @@
   "09272": {
    "url": "https://www.freyung-grafenau.de/fileadmin//content/leben_wohnen/Verkehr/Zulassung/Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:40:52",
+   "checked": "2026-11-28 03:36:04",
    "hash": "bd29a9cc35c06c8569717c3998d8148569fbd64492a74eeda07b522d86051cce",
    "fails": 0,
    "kind": "pdf"
@@ -1797,7 +1799,7 @@
   "09273": {
    "url": "https://www.Landkreis-kelheim.de/media/4713/zulw002_ab-2023_09.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:40:57",
+   "checked": "2026-11-28 03:36:09",
    "hash": "52a426a3a8b9be9cc8042f046e8dffeb5562341f81a17ad9f615ab3404325f1a",
    "fails": 0,
    "kind": "pdf"
@@ -1805,22 +1807,23 @@
   "09274": {
    "url": "https://www.landkreis-landshut.de/hostedmedia/21917/sg34_vollmacht_mit_sepa_012026.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:40:59",
+   "checked": "2026-11-28 03:36:11",
    "hash": "9ecaebf56d6d503d47119ec490522ee6350c775d4594c4a26c9fd51ccbcaabc6",
    "fails": 0,
    "kind": "pdf"
   },
   "09275": {
    "url": "http://formular.landkreis-passau.de/formcycle/form/alias/1/form1053__Kopie_1_1_Kopie_1",
-   "state": "ok",
-   "checked": "2026-11-27 03:41:04",
-   "fails": 0,
+   "state": "stoerung",
+   "checked": "2026-11-28 03:36:15",
+   "error": "TimeoutError: The read operation timed out",
+   "fails": 1,
    "kind": "html"
   },
   "09276": {
    "url": "https://www.landkreis-regen.de/wp-content/uploads/Vollmacht-Zulassung-Fahrzeughalter.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:12",
+   "checked": "2026-11-28 03:36:51",
    "hash": "a96c4429d8bcd3238ca8f9b0f41643b3f1bb1c7cff852ed482c5c50cc33e3cd4",
    "fails": 0,
    "kind": "pdf"
@@ -1828,7 +1831,7 @@
   "09277": {
    "url": "https://www.rottal-inn.de/fileadmin/rottal-inn/Formulare/Strassenverkehrsbehoerde/KfZ-Zulassung/Kfz-Zulassung_-_Vollmacht_fuer_die_Zulassung_eines_Kraftfahrzeuges.docx",
    "state": "ok",
-   "checked": "2026-11-27 03:41:18",
+   "checked": "2026-11-28 03:36:56",
    "hash": "cc4f9aaf09d514e02f2942982e991809f1ee8defc0cf99db9bc96bdfffcea15a",
    "fails": 0,
    "kind": "docx"
@@ -1836,7 +1839,7 @@
   "09278": {
    "url": "https://www.landkreis-straubing-bogen.de/media/7050/vollmacht_sepa.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:19",
+   "checked": "2026-11-28 03:36:57",
    "hash": "648d90fdefd8230d5e30850de58ade3a865a499bb7612cf2864fac2ba8618000",
    "fails": 0,
    "kind": "pdf"
@@ -1844,7 +1847,7 @@
   "09279": {
    "url": "https://dingolfing-landau.de/wp-content/uploads/2025/05/Zulassungsstelle-Vollmacht-Kfz-Zulassung-SG-32.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:23",
+   "checked": "2026-11-28 03:36:58",
    "hash": "f62b028fe1e339edc7fede7be051bcfb9720f0a8a69917ff812a2587b119ac73",
    "fails": 0,
    "kind": "pdf"
@@ -1852,7 +1855,7 @@
   "09361": {
    "url": "https://amberg.de/fileadmin/Inhalte/Formulare_Antraege/Zulassung/Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:26",
+   "checked": "2026-11-28 03:37:01",
    "hash": "a7144b0306bf8bf8569a84d355ea862ed1e10aadc4464176d46dc882825ac489",
    "fails": 0,
    "kind": "pdf"
@@ -1860,7 +1863,7 @@
   "09362": {
    "url": "https://www.regensburg.de/sixcms/media.php/206/vollmacht-sepamandat-zulassung-052022.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:28",
+   "checked": "2026-11-28 03:37:02",
    "hash": "82c53d5ee51e3a8efb529a3b634c83c87846e34f88470f82c7d920f7a6ad1c77",
    "fails": 0,
    "kind": "pdf"
@@ -1868,7 +1871,7 @@
   "09363": {
    "url": "https://www.weiden.de/fileadmin/user_upload/A_Stadt-Rathaus-Buerger/A02_Buergerservice/Formulare/vollmacht_zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:30",
+   "checked": "2026-11-28 03:37:02",
    "hash": "87bd46faead4bf7bc614c3e0172e81dd527fb18623f18778dca75f0cf9863dce",
    "fails": 0,
    "kind": "pdf"
@@ -1876,7 +1879,7 @@
   "09371": {
    "url": "https://www.kreis-as.de/media/custom/3131_251_1.PDF?1562313531",
    "state": "ok",
-   "checked": "2026-11-27 03:41:31",
+   "checked": "2026-11-28 03:37:03",
    "hash": "ff0b4ad1037c890e3ae64ab152407f713a9dce6bb6b209a1d88557259ff70760",
    "fails": 0,
    "kind": "pdf"
@@ -1884,13 +1887,13 @@
   "09372": {
    "url": "https://www.landkreis-cham.de/media/28405/a323_zulassungsvollmacht_sepa_verteilt.pdf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:41:33",
+   "checked": "2026-11-28 03:37:05",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "09373": {
    "url": "https://www.landkreis-neumarkt.de/download/a6761mb4m54kv5sfoo2h43u2ho3/55_zulassungsantrag_vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:33",
+   "checked": "2026-11-28 03:37:05",
    "hash": "e5aa45e25107db6b3f7d7eb9d120a625d12bd1de66342d01ff734eb140e84057",
    "fails": 0,
    "kind": "pdf"
@@ -1898,15 +1901,15 @@
   "09375": {
    "url": "https://www.landkreis-regensburg.de/PDF/Kfz_Zulassung_Vollmacht.PDF?ObjSvrID=3987&ObjID=62070&ObjLa=1&Ext=PDF&WTR=1&_ts=1750657840",
    "state": "defekt",
-   "checked": "2026-11-27 03:41:35",
+   "checked": "2026-11-28 03:37:06",
    "error": "HTTP 503",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "09376": {
    "url": "https://www.landkreis-schwandorf.de/media/custom/3300_4851_1.PDF?1782395024",
    "state": "ok",
-   "checked": "2026-11-27 03:41:36",
+   "checked": "2026-11-28 03:37:07",
    "hash": "c142bd22ac5ed4d25654e51a5c20c08c5943879bb09b13e2e6ff4b7b341183b8",
    "fails": 0,
    "kind": "pdf"
@@ -1914,7 +1917,7 @@
   "09377": {
    "url": "https://www.kreis-tir.de/fileadmin/user_upload/Abteilungen/Verkehrswesen/Kfz-Zulassungsstelle/Formblatt_-_Vollmacht-1.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:38",
+   "checked": "2026-11-28 03:37:08",
    "hash": "b02cc8590907b308b5ff323053c5eb71c883d78edcc74632a311def36b00f29c",
    "fails": 0,
    "kind": "pdf"
@@ -1922,7 +1925,7 @@
   "09461": {
    "url": "https://www.stadt.bamberg.de/B%C3%BCrgerservice/%C3%84mter/Stra%C3%9Fenverkehrsamt/Zulassungsstelle/Vollmacht-zur-Zulassung-eines-Fahrzeuges-und-Lastschriftmandat-zum-Einzug-der-Kraftfahrzeugsteuer.php?object=tx%2C3481.3&ModID=6&FID=332.7348.1&NavID=1829.232&kuo=1",
    "state": "ok",
-   "checked": "2026-11-27 03:41:40",
+   "checked": "2026-11-28 03:37:10",
    "fails": 0,
    "kind": "html",
    "seite_links": 1
@@ -1930,7 +1933,7 @@
   "09462": {
    "url": "https://formular-server.de/BT_FS/findform?shortname=Vollmacht_Kfz_Dritte&formtecid=2&areashortname=bt_oe",
    "state": "ok",
-   "checked": "2026-11-27 03:41:41",
+   "checked": "2026-11-28 03:37:11",
    "hash": "6f42e74c7f4bdea3c7cce6f46db7f0961d1145e407909bbb1b30b542e9b8e89a",
    "fails": 0,
    "kind": "pdf"
@@ -1938,7 +1941,7 @@
   "09463": {
    "url": "https://www.zulassungsstelle-coburg.de/wp-content/uploads/2025/09/Vollmacht_fuer_Zulassung_21.07.2024.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:42",
+   "checked": "2026-11-28 03:37:12",
    "hash": "b87240fda3dae26e0ff051e414bec3f50cb29aeff957aca1c0ab7f48123e4e58",
    "fails": 0,
    "kind": "pdf"
@@ -1946,7 +1949,7 @@
   "09464": {
    "url": "https://www.hof.de/fileadmin/user_upload/pdf/formulare/kfz-zulassung/kfz-vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:45",
+   "checked": "2026-11-28 03:37:14",
    "hash": "3bd153add37cef019e939eb14cf3a2a1c54363f397f151bf38fb38b3d30833cb",
    "fails": 0,
    "kind": "pdf"
@@ -1954,7 +1957,7 @@
   "09471": {
    "url": "https://www.landkreis-bamberg.de/PDF/Vollmacht_zur_Zulassung_eines_KFZ.PDF?ObjSvrID=1633&ObjID=790&ObjLa=1&Ext=PDF&WTR=1&_ts=1557413812",
    "state": "ok",
-   "checked": "2026-11-27 03:41:46",
+   "checked": "2026-11-28 03:37:16",
    "hash": "b108158040413a09b6cff4ff830ef1bd5a5e90ea11d7f0bb163fca74a55e8bf8",
    "fails": 0,
    "kind": "pdf"
@@ -1962,7 +1965,7 @@
   "09472": {
    "url": "https://xima.landkreis-bayreuth.de/frontend-server/form/alias/1/Vollmacht_KFZ-Anmeldung/",
    "state": "ok",
-   "checked": "2026-11-27 03:41:48",
+   "checked": "2026-11-28 03:37:17",
    "fails": 0,
    "kind": "html",
    "seite_links": 0
@@ -1970,7 +1973,7 @@
   "09473": {
    "url": "https://www.zulassungsstelle-coburg.de/wp-content/uploads/2025/09/Vollmacht_fuer_Zulassung_21.07.2024.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:51",
+   "checked": "2026-11-28 03:37:43",
    "hash": "b87240fda3dae26e0ff051e414bec3f50cb29aeff957aca1c0ab7f48123e4e58",
    "fails": 0,
    "kind": "pdf"
@@ -1978,15 +1981,15 @@
   "09474": {
    "url": "https://www.lra-fo.de/loadDocument.phtml?FID=3925.322.1&Ext=PDF",
    "state": "defekt",
-   "checked": "2026-11-27 03:41:52",
+   "checked": "2026-11-28 03:37:44",
    "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "09475": {
    "url": "https://www.landkreis-hof.de/file/2021/09/Vollmacht_SEPA_2021_Formular.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:54",
+   "checked": "2026-11-28 03:37:45",
    "hash": "92d058b25fbaade911e353a2ea03bdf7db39ed24001445eb358ce3f716a309f4",
    "fails": 0,
    "kind": "pdf"
@@ -1994,13 +1997,13 @@
   "09476": {
    "url": "https://www.landkreis-kronach.de/output/download.php?fid=4367.1087.1.PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:41:56",
+   "checked": "2026-11-28 03:37:47",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "09477": {
    "url": "https://www.landkreis-kulmbach.de/fileadmin/user_upload/Service-Verwaltung/Onlineformulare/Verkehrswesen/Formulare/Vollmacht_SEPA.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:57",
+   "checked": "2026-11-28 03:37:47",
    "hash": "8d6f2b0070f03624d57791406d40e10afa832b5bdb4be2b3b2fb9d083ded7c22",
    "fails": 0,
    "kind": "pdf"
@@ -2008,7 +2011,7 @@
   "09479": {
    "url": "https://www.landkreis-wunsiedel.de/file/vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:41:59",
+   "checked": "2026-11-28 03:37:49",
    "hash": "0b5c47312863ab534078296d66dcb88cd1cd07a6ef9b1dfa961387036a1b4bc8",
    "fails": 0,
    "kind": "pdf"
@@ -2016,7 +2019,7 @@
   "09561": {
    "url": "https://www.ansbach.de/media/custom/2595_450_1.PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:42:01",
+   "checked": "2026-11-28 03:37:51",
    "hash": "ee4cd3ab9ee65e0e3afde4741333674c093663a698e0d9503606890c893d8145",
    "fails": 0,
    "kind": "pdf"
@@ -2024,13 +2027,13 @@
   "09562": {
    "url": "https://www.erlangen.de/uwao-api/faila/files/bypath/Dokumente/PDF-Formulare/33_Buergeramt/Vollmacht_mit_SEPA-Lastschrift.pdf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:42:03",
+   "checked": "2026-11-28 03:37:52",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "09563": {
    "url": "https://fuerth.de/fileadmin/redaktion/01-Rathaus/Formulare/2024-09-09-Vollmacht_SEPA-Kombimandat.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:04",
+   "checked": "2026-11-28 03:37:53",
    "hash": "9484766545d4a7177afe10c8b0a786a2d5474ab3857b67db5e55e8a89eb93444",
    "fails": 0,
    "kind": "pdf"
@@ -2038,7 +2041,7 @@
   "09564": {
    "url": "https://www.nuernberg.de/imperia/md/buergeraemter/dokumente/internet/srd/banos/sepa-mandat_mit_vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:07",
+   "checked": "2026-11-28 03:37:54",
    "hash": "379db06853ee2a718bb5b93d1cd46eb9fcd0bc44e5e04f72c7f74c47f6c39061",
    "fails": 0,
    "kind": "pdf"
@@ -2046,7 +2049,7 @@
   "09565": {
    "url": "https://www.schwabach.de/images/referate/referat_2/downloads/Formulare/Zulassungswesen/Vollmacht_fuer_die_Fahrzeugzulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:09",
+   "checked": "2026-11-28 03:37:56",
    "hash": "7fd653c2c895b8c99c250868aa767cefa2469f02841f6a302feb1d1ccbf41550",
    "fails": 0,
    "kind": "pdf"
@@ -2054,7 +2057,7 @@
   "09571": {
    "url": "https://www.landkreis-ansbach.de/loadDocument.phtml?FID=3797.724.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:42:10",
+   "checked": "2026-11-28 03:37:57",
    "hash": "9eb825553620d0f663ed3dc3afca98c36d66f338d92fa8f778fd538980f0c9c5",
    "fails": 0,
    "kind": "pdf"
@@ -2062,7 +2065,7 @@
   "09572": {
    "url": "https://www.erlangen-hoechstadt.de/loadDocument.phtml?FID=4237.3655.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:42:13",
+   "checked": "2026-11-28 03:38:00",
    "hash": "cc61b5b8de7f6c83a1d59e2ab7bc6d3b0c13bd47c944cd69d1889e9b1cdb83a3",
    "fails": 0,
    "kind": "pdf"
@@ -2070,7 +2073,7 @@
   "09574": {
    "url": "https://www.nuernberger-land.de/fileadmin/user_upload/serviceleistungen/auto_verkehr/neuzulassung/VollmachtSEPA.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:15",
+   "checked": "2026-11-28 03:38:02",
    "hash": "db383f0af76dee8f98e5188e5338eac0b212146ee88eb2f06bd5ef3639cc13aa",
    "fails": 0,
    "kind": "pdf"
@@ -2078,7 +2081,7 @@
   "09575": {
    "url": "https://www.kreis-nea.de/fileadmin/0_Kreis-Nea/Dokumente/Formulare/KFZ-Zulassung/sg33_Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:18",
+   "checked": "2026-11-28 03:38:04",
    "hash": "d244dc768a1718d6e86fead29c7cf37d0004eed91309217e298c51cd5966c93a",
    "fails": 0,
    "kind": "pdf"
@@ -2086,7 +2089,7 @@
   "09576": {
    "url": "https://www.landratsamt-roth.de/uwao-api/faila/files/bypath/Themen/KFZ-Zulassung%20und%20Fuehrerschein/Dokumente/Zulassungsstelle/Vollmacht_Zulassung_KFZ.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:20",
+   "checked": "2026-11-28 03:38:05",
    "hash": "5a20e34653560505278afad37924a2ee706e37c026b8c0b0e456249df30cfc82",
    "fails": 0,
    "kind": "pdf"
@@ -2094,13 +2097,13 @@
   "09577": {
    "url": "https://www.landkreis-wug.de/timm/download.php?file=data/lk_docs/landratsamt/fahrzeug-und-strassenwesen/vollmacht.pdf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:42:22",
+   "checked": "2026-11-28 03:38:07",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "09661": {
    "url": "https://www.aschaffenburg.de/loadDocument.phtml?FID=4173.426.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:42:23",
+   "checked": "2026-11-28 03:38:08",
    "hash": "fc0f5c01e0e5178d0b68bece0e14b7ad495cdf7df9477684e1b7332fb83a5f31",
    "fails": 0,
    "kind": "pdf"
@@ -2108,7 +2111,7 @@
   "09662": {
    "url": "https://www.schweinfurt.de/media/www.schweinfurt.de/org/med_2098/3031_vollmacht_kfz-zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:26",
+   "checked": "2026-11-28 03:38:10",
    "hash": "1d3d54e22eb2e5f985412769b9b39d6ab1462e30928744190d39954773bd5c1f",
    "fails": 0,
    "kind": "pdf"
@@ -2116,7 +2119,7 @@
   "09663": {
    "url": "https://www.wuerzburg.de/media/www.wuerzburg.de/org/med_511986/50333_50333_kfz-vollmacht_stand_oktober_2018.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:27",
+   "checked": "2026-11-28 03:38:11",
    "hash": "a7bb1ffc913b494cddda2cd0e39dcbebb0417e8d6b97cac506f000bae3dc58f2",
    "fails": 0,
    "kind": "pdf"
@@ -2124,7 +2127,7 @@
   "09671": {
    "url": "https://www.landkreis-aschaffenburg.de/loadDocument.phtml?FID=3984.2679.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:42:29",
+   "checked": "2026-11-28 03:38:13",
    "hash": "c5c08859f5a815833cfadf52251ad587244bc9e8f865e05de6bbeed2166600e3",
    "fails": 0,
    "kind": "pdf"
@@ -2132,7 +2135,7 @@
   "09672": {
    "url": "https://www.landkreis-badkissingen.de/media/www.landkreis-badkissingen.de/org/med_8800/33518_zulassungsvollmacht_stand_08_2026.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:31",
+   "checked": "2026-11-28 03:38:14",
    "hash": "2ce349a1e184b82b38aee15f5b69651a6c12db3f20d2706f8bd7dea2419fb9b3",
    "fails": 0,
    "kind": "pdf"
@@ -2140,7 +2143,7 @@
   "09673": {
    "url": "https://www.rhoen-grabfeld.de/fileadmin/user_upload/LKR/Mobilitaet/Zulassung/Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:32",
+   "checked": "2026-11-28 03:38:15",
    "hash": "c745d1f9d4ea61ab87a8357de17d0f669311f656bf13148b77a2fe01b720e3da",
    "fails": 0,
    "kind": "pdf"
@@ -2148,7 +2151,7 @@
   "09674": {
    "url": "https://www.hassberge.de/fileadmin/user_upload/Dienstleistungen/Stra%C3%9Fenverkehrsamt/Formulare/Zulassung_Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:34",
+   "checked": "2026-11-28 03:38:16",
    "hash": "fd13d742cc18ddba9d8f973fca2f09193d1ba01c41042235ad1259989dd49f58",
    "fails": 0,
    "kind": "pdf"
@@ -2156,7 +2159,7 @@
   "09675": {
    "url": "https://www.kitzingen.de/fileadmin/Landratsamt_Kitzingen_Bilder/Buergerservice/Buergerservice/Digitales_Buergerbuero/43_-_V_O_L_L_M_A_C_H_T_AUSFUELLBAR.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:37",
+   "checked": "2026-11-28 03:38:20",
    "hash": "5e9b98a31231d8f25c6bed791af2046e7c6f0496b99a07e784885aa816b7eaa1",
    "fails": 0,
    "kind": "pdf"
@@ -2164,7 +2167,7 @@
   "09676": {
    "url": "https://www.landkreis-miltenberg.de/themen/kraftfahrzeugzulassung.html?file=files/Landratsamt/Themen/Kraftfahrzeugzulassungsstelle/Formulare/F_KfzZ_Vollmacht_Zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:39",
+   "checked": "2026-11-28 03:38:21",
    "hash": "2cf321146570dd48661231711635d4ea05c2d06ffb46dbab6c6675abaae8532a",
    "fails": 0,
    "kind": "pdf"
@@ -2172,7 +2175,7 @@
   "09677": {
    "url": "https://www.main-spessart.de/media/www.main-spessart.de/org/med_223/54_2026-07-10_vollmacht_zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:41",
+   "checked": "2026-11-28 03:38:23",
    "hash": "55f2a7fc90447026363009b6762bdaa1331ad4935077a507276ef4f76f0490d5",
    "fails": 0,
    "kind": "pdf"
@@ -2180,7 +2183,7 @@
   "09678": {
    "url": "https://www.landkreis-schweinfurt.de/fileadmin/inhalt_service-info/SG31_Strassenverkehrsamt/Zulassungsvollmacht_und_Sepamandat_01.zip",
    "state": "ok",
-   "checked": "2026-11-27 03:42:44",
+   "checked": "2026-11-28 03:38:25",
    "hash": "cf5642d789f205d24a29d06ae522db1fbc88902cb2cec64616ec1a8221335889",
    "fails": 0,
    "kind": "zip"
@@ -2188,20 +2191,20 @@
   "09679": {
    "url": "https://www.landkreis-wuerzburg.de/output/download.php?file=%2Fmedia%2Fcustom%2F1755_251_1.PDF%3F1660734694&fn=Vollmacht_Privatpersonen_und_Firmen",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:42:45",
+   "checked": "2026-11-28 03:38:26",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "09761": {
    "url": "https://formular-service.augsburg.de/intelliform/forms/stadt_augsburg/extern/330/extern/330/kfz_zulassung/vollmacht/index",
    "state": "ok",
-   "checked": "2026-11-27 03:42:47",
+   "checked": "2026-11-28 03:38:27",
    "fails": 0,
    "kind": "html"
   },
   "09762": {
    "url": "https://www.kaufbeuren.de/PortalData/17/Resources/pdf/formulare/Vollmacht_fuer_Zulassung_-_Neu.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:48",
+   "checked": "2026-11-28 03:38:28",
    "hash": "a29d8ff99ec0cfe4fd8c0ab55a4b9cdae2c9f89796a381ec8b460ae17526152a",
    "fails": 0,
    "kind": "pdf"
@@ -2209,7 +2212,7 @@
   "09763": {
    "url": "https://www.kempten.de/file/Zulassung_Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:51",
+   "checked": "2026-11-28 03:38:30",
    "hash": "5b49005ca1355e68ec690661b6261b8414cb6f84578396eba0311788d7223e8b",
    "fails": 0,
    "kind": "pdf"
@@ -2217,7 +2220,7 @@
   "09764": {
    "url": "https://www.memmingen.de/fileadmin/civserv/9764000/forms/Amt37/KFZ-Zulassung_Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:56",
+   "checked": "2026-11-28 03:38:34",
    "hash": "2d7d5cc17ac48c8c5d7d0cd03c11ac1cd1359543cf2118fe0a36be679ea09c72",
    "fails": 0,
    "kind": "pdf"
@@ -2225,7 +2228,7 @@
   "09771": {
    "url": "https://www.lra-aic-fdb.de/wp-content/uploads/2026/01/vollmachtohnelasteinzug012014.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:57",
+   "checked": "2026-11-28 03:38:35",
    "hash": "8f1f732c2638ab93b24fe6b88f4c47baa9382119823066589e56155cbd983ebf",
    "fails": 0,
    "kind": "pdf"
@@ -2233,7 +2236,7 @@
   "09772": {
    "url": "https://www.landkreis-augsburg.de/fileadmin/user_upload/Verkehrswesen/Kfz_-_Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:42:59",
+   "checked": "2026-11-28 03:38:36",
    "hash": "6cb8f4530c221e56bc9cfd81fa9f9dd3e6801b7f46396d22b4f2ec46aae8db7f",
    "fails": 0,
    "kind": "pdf"
@@ -2241,7 +2244,7 @@
   "09773": {
    "url": "https://www.landkreis-dillingen.de/_Resources/Persistent/e/c/1/0/ec103f27b4fccf5079fdac38c88d378de8035904/1410_ZulassungVollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:43:00",
+   "checked": "2026-11-28 03:38:37",
    "hash": "44d9e2b24b90699ca1787f50ed399ed8cf760d5175c8233add672a1a3b35df06",
    "fails": 0,
    "kind": "pdf"
@@ -2249,7 +2252,7 @@
   "09774": {
    "url": "https://www.landkreis-guenzburg.de/wp-content/uploads/2023/09/fb10vollmachtkfzanmeldung0820231pdf.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:43:04",
+   "checked": "2026-11-28 03:38:38",
    "hash": "31f54efe92d6a605132271d9f8c87c4458a2dd5035aad10c13f885179ec7dd29",
    "fails": 0,
    "kind": "pdf"
@@ -2257,15 +2260,15 @@
   "09775": {
    "url": "https://formular.landkreis-nu.de/cdm/cfs/eject/pdf?MANDANTID=21&FORMID=2960",
    "state": "defekt",
-   "checked": "2026-11-27 03:43:07",
+   "checked": "2026-11-28 03:38:42",
    "error": "URLError: <urlopen error timed out>",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "09776": {
    "url": "https://landkreis-lindau.de/media/custom/1188_83_1.PDF?1390815607=",
    "state": "ok",
-   "checked": "2026-11-27 03:43:43",
+   "checked": "2026-11-28 03:39:17",
    "hash": "42e9966298510a17fcc9d141341dcc695ae1480e8f33c660252f8c71c41a28b2",
    "fails": 0,
    "kind": "pdf"
@@ -2273,7 +2276,7 @@
   "09777": {
    "url": "https://www.ostallgaeu.de/fileadmin/DistrictOffice/ServiceAdditionalServiceForms/30-142-2-3_Vollmacht_Zulassungsstelle.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:43:46",
+   "checked": "2026-11-28 03:39:21",
    "hash": "c530f3b5f25a18ca06b4041f942b859bed79a17d14328e5df9375bbb84b9c832",
    "fails": 0,
    "kind": "pdf"
@@ -2281,7 +2284,7 @@
   "09778": {
    "url": "https://www.landratsamt-unterallgaeu.de/download-link?did=208&download=Vollmacht_SEPA.pdf&nid=208&cHash=e4d431a65066a09b277504c5b067277e",
    "state": "ok",
-   "checked": "2026-11-27 03:43:48",
+   "checked": "2026-11-28 03:39:22",
    "hash": "5fc124ce3a51cc4511a6f4ade4a8ecfd3f7e5beb19941b3c05dc40170a526069",
    "fails": 0,
    "kind": "pdf"
@@ -2289,7 +2292,7 @@
   "09779": {
    "url": "https://www.donau-ries.de/files/donauries/PDFs/Antr%C3%A4ge%20&%20Formulare/Zulassungsbeh%C3%B6rde%20-%20Vollmacht_Zulassung_eines_Fahrzeuges_m_i_t_SEPA-Lastschriftmandat.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:43:50",
+   "checked": "2026-11-28 03:39:24",
    "hash": "056ceb8d9a9b370e4786898b88640208eb3a63f3585c41a79da48899ff3f6e8c",
    "fails": 0,
    "kind": "pdf"
@@ -2297,7 +2300,7 @@
   "09780": {
    "url": "https://www.oberallgaeu.org/fileadmin/eigene_dateien/datei_upload/Vollmacht_f%C3%BCr_Beauftragte_inkl_Sepa-Kombimandat_ausf%C3%BCllbar.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:43:57",
+   "checked": "2026-11-28 03:39:30",
    "hash": "a2501495464383a5846527d1b42714b0c2376a15c84676f31600ee967e0854c9",
    "fails": 0,
    "kind": "pdf"
@@ -2305,7 +2308,7 @@
   "10041": {
    "url": "https://www.saarbruecken.de/media/download-5334333035913",
    "state": "ok",
-   "checked": "2026-11-27 03:43:59",
+   "checked": "2026-11-28 03:39:31",
    "hash": "facabdcdf39beee932d244914377b143492d51fef67f3c7ddfb86ab97773a2dc",
    "fails": 0,
    "kind": "pdf"
@@ -2313,7 +2316,7 @@
   "10042": {
    "url": "https://www.merzig-wadern.de/media/custom/697_19239_1.PDF?1713959912",
    "state": "ok",
-   "checked": "2026-11-27 03:44:00",
+   "checked": "2026-11-28 03:39:32",
    "hash": "b7f9a039cb546b8600f38b1bde8e4b87a3e77f1be04a9922c4a98ee823fe97dd",
    "fails": 0,
    "kind": "pdf"
@@ -2321,7 +2324,7 @@
   "10043": {
    "url": "https://www.landkreis-neunkirchen.de/fileadmin/user_upload/KFZ_Fuehrerschein/PDFs/Vollmacht_normal_mit_Untervollmacht_2026.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:44:02",
+   "checked": "2026-11-28 03:39:34",
    "hash": "de45884ed7b48400eadf79ddddfee8a2ec1a472ebc8b85d97b7780844db983c0",
    "fails": 0,
    "kind": "pdf"
@@ -2329,13 +2332,13 @@
   "10044": {
    "url": "https://www.kreis-saarlouis.de/city_info/display/dokument/show.cfm?region_id=389&id=405756",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:44:03",
+   "checked": "2026-11-28 03:39:35",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "10046": {
    "url": "https://www.landkreis-st-wendel.de/fileadmin/user_upload/1-Verwaltung-Politik-Bauen/Zulassungsstelle/Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:44:04",
+   "checked": "2026-11-28 03:39:36",
    "hash": "388abdb5010f689d7619a9a35c00d3183a44808dc4f55e5c0bb142107a7c16ff",
    "fails": 0,
    "kind": "pdf"
@@ -2343,7 +2346,7 @@
   "11000": {
    "url": "https://www.berlin.de/formularverzeichnis/?formular=/labo/kfz-zulassung/_assets/mdb-f46485-3573_zulassungsantrag_internet.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:44:06",
+   "checked": "2026-11-28 03:39:37",
    "hash": "d782866b1a3262279b250fcc02a3cb9638bd1336255aac621528e066abef7c93",
    "fails": 0,
    "kind": "pdf"
@@ -2351,7 +2354,7 @@
   "12051": {
    "url": "https://www.stadt-brandenburg.de/fileadmin/pdf/32/Kfz/Vollmacht_KfZ.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:44:08",
+   "checked": "2026-11-28 03:39:39",
    "hash": "8b8dd7f6852f9f984c861208facb010c407ccb3d693ccd1966ed17d1f1e2b24b",
    "fails": 0,
    "kind": "pdf"
@@ -2359,7 +2362,7 @@
   "12053": {
    "url": "https://www.frankfurt-oder.de/PDF/Vollmacht_Fahrzeughalter.PDF?ObjSvrID=2616&ObjID=7062&ObjLa=1&Ext=PDF&WTR=1&_ts=1547633970",
    "state": "ok",
-   "checked": "2026-11-27 03:44:10",
+   "checked": "2026-11-28 03:39:40",
    "hash": "1174434bd6ff4ae5288496f4475a58799e86318e3791746e7265bfd14c1c3bcc",
    "fails": 0,
    "kind": "pdf"
@@ -2367,15 +2370,15 @@
   "12054": {
    "url": "https://vv.potsdam.de/vv/produkte/173010100000008558.php",
    "state": "defekt",
-   "checked": "2026-11-27 03:44:12",
+   "checked": "2026-11-28 03:39:42",
    "error": "URLError: <urlopen error timed out>",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "12060": {
    "url": "https://www.barnim.de/fileadmin/barnim_upload/32_Ordnungsamt/Stra%C3%9Fenverkehr/KfZ/Antrag_auf_Kfz-Zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:44:47",
+   "checked": "2026-11-28 03:40:17",
    "hash": "a2a1ad6bc74c56f56812d8374e9d2cad5ce49ac558e15ef613ebef74a12e12f4",
    "fails": 0,
    "kind": "pdf"
@@ -2383,7 +2386,7 @@
   "12061": {
    "url": "https://www.dahme-spreewald.de/media_fast/584/Vollmacht_Zulassung_v2-1_final.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:44:48",
+   "checked": "2026-11-28 03:40:18",
    "hash": "1255d41e4b747214b21f89c7f39bfb30a0ec2fe666040c4b66f9d8b82dfac297",
    "fails": 0,
    "kind": "pdf"
@@ -2391,7 +2394,7 @@
   "12062": {
    "url": "https://www.lkee.de/media/custom/2112_132_1.PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:44:51",
+   "checked": "2026-11-28 03:40:20",
    "hash": "888faedb30f655556d1643790bfbb3be07ff49b8b7401a2711cbd884793403f4",
    "fails": 0,
    "kind": "pdf"
@@ -2399,7 +2402,7 @@
   "12063": {
    "url": "https://www.havelland.de/wirtschaft-verkehr/verkehr/kfz-zulassungsbehoerde/formulare/pdf-download/",
    "state": "defekt",
-   "checked": "2026-11-27 03:44:52",
+   "checked": "2026-11-28 03:40:21",
    "error": "HTTP 404",
    "candidates": [
     {
@@ -2408,12 +2411,12 @@
      "score": 4
     }
    ],
-   "fails": 3
+   "fails": 4
   },
   "12064": {
    "url": "https://www.maerkisch-oderland.de/_Resources/Persistent/5/6/5/a/565ab52211a9fe96fa7088351841470c60e1f4b2/Antrag%20auf%20Zulassung_Umschreibung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:44:54",
+   "checked": "2026-11-28 03:40:23",
    "hash": "fbb7735865f3ffaefe83c891d854791760b0ba5cd34d848379f9a2850e1e7aab",
    "fails": 0,
    "kind": "pdf"
@@ -2421,7 +2424,7 @@
   "12065": {
    "url": "https://www.oberhavel.de/B%C3%BCrgerservice/Formulare-Dokumente/index.php?ModID=6&La=1&NavID=2244.1406&k_sub=1&kat%5B0%5D=2244.2616&startkat=2244.1876&qs=&kuo=1&object=tx%7C2244.2953.1&alpha=K",
    "state": "ok",
-   "checked": "2026-11-27 03:44:57",
+   "checked": "2026-11-28 03:40:24",
    "fails": 0,
    "kind": "html",
    "seite_links": 1
@@ -2429,7 +2432,7 @@
   "12066": {
    "url": "https://include-bb.zfinder.de/IWFileLoader?tsaid_fileId=127196719&",
    "state": "ok",
-   "checked": "2026-11-27 03:44:59",
+   "checked": "2026-11-28 03:40:26",
    "hash": "d2a5bce58fdeae9ddfd87730176273af94cfb4c2721a7f52b3c211e44a4b8d5e",
    "fails": 0,
    "kind": "pdf"
@@ -2437,7 +2440,7 @@
   "12067": {
    "url": "https://www.landkreis-oder-spree.de/Service-Aktuelles/Service/Was-erledige-ich-wo-/Umschreibung-eines-Fahrzeuges.php?ModID=10&FID=2426.102.1&object=tx%7C3410.2.1&redir=1",
    "state": "ok",
-   "checked": "2026-11-27 03:45:00",
+   "checked": "2026-11-28 03:40:27",
    "fails": 0,
    "kind": "html",
    "seite_links": 1
@@ -2445,7 +2448,7 @@
   "12068": {
    "url": "https://www.ostprignitz-ruppin.de/media/custom/3039_1241_1.PDF?1693492261",
    "state": "ok",
-   "checked": "2026-11-27 03:45:02",
+   "checked": "2026-11-28 03:40:29",
    "hash": "f479ca610648eaafa880e15608b853fd0abd1a0002dc20ad4a6fcaa7fcff09a7",
    "fails": 0,
    "kind": "pdf"
@@ -2453,7 +2456,7 @@
   "12069": {
    "url": "https://www.potsdam-mittelmark.de/files/formulare/KfZ%20Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:45:05",
+   "checked": "2026-11-28 03:40:31",
    "hash": "5573c6e98c15788c4509c8b7a479fea2033eb18de6a837cd7e75f13d5d554e58",
    "fails": 0,
    "kind": "pdf"
@@ -2461,13 +2464,13 @@
   "12070": {
    "url": "https://pdf.form-solutions.net/servlet/de.formsolutions.FillServlet?sid=fT59kA4nJNavqzVH8m7xq3H8Mh6q3fM&r=g.pdf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:45:06",
+   "checked": "2026-11-28 03:40:32",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "12071": {
    "url": "https://www.lkspn.de/media/file/formulare/ordnungsamt/2022/vollmacht_kfz-zulassung_spn_2022.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:45:06",
+   "checked": "2026-11-28 03:40:32",
    "hash": "8db46d56fab0546fd72849bc1e18215ae4baf8803921402817d9921d038d925c",
    "fails": 0,
    "kind": "pdf"
@@ -2475,7 +2478,7 @@
   "12072": {
    "url": "https://www.teltow-flaeming.de/files/content/pdf_aemter/dezernat-4/36-strassenverkehrsamt/36-1-kfz-zulassung/Vollmacht%20fu%CC%88r%20die%20Zulassung%20eines%20Kfz.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:45:08",
+   "checked": "2026-11-28 03:40:33",
    "hash": "ac31ba3a21f57fb5aea9e03b66fe33995ea72fa22b11a89e95e2185db0a0fc18",
    "fails": 0,
    "kind": "pdf"
@@ -2483,7 +2486,7 @@
   "13003": {
    "url": "https://rathaus.rostock.de/media/4984/Antrag%20mit%20Vollmacht%20und%20Einverst%C3%A4ndnis.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:45:11",
+   "checked": "2026-11-28 03:40:35",
    "hash": "126a1dd7345006f1beb2404045f1a38e0357ceea4e33a2448dfc4bcc8505c9a2",
    "fails": 0,
    "kind": "pdf"
@@ -2491,13 +2494,13 @@
   "13004": {
    "url": "https://www.kreis-lup.de/output/download.php?fid=3378.1859.1.PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:45:13",
+   "checked": "2026-11-28 03:40:37",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "13071": {
    "url": "https://www.lk-mecklenburgische-seenplatte.de/media/custom/2037_223_1.PDF?1503537048",
    "state": "ok",
-   "checked": "2026-11-27 03:45:13",
+   "checked": "2026-11-28 03:40:37",
    "hash": "930c7f21b519e7f17e889b85ad95ec3373af5c6fc57348fd5181ace9d647fa36",
    "fails": 0,
    "kind": "pdf"
@@ -2505,29 +2508,23 @@
   "13073": {
    "url": "https://www.lk-vr.de/media/custom/3034_5079_1.PDF?1773645126",
    "state": "ok",
-   "checked": "2026-11-27 03:45:15",
+   "checked": "2026-11-28 03:40:38",
    "hash": "00ce9f7d4eaed8e3784b237100b4404480b4a0da1b142bcfc758f8d11a1c28b8",
    "fails": 0,
    "kind": "pdf"
   },
   "13074": {
    "url": "https://www.nordwestmecklenburg.de/de/datei/download/id/5957,1105/vollmac.pdf",
-   "state": "defekt",
-   "checked": "2026-11-27 03:45:16",
-   "error": "URLError: <urlopen error timed out>",
-   "candidates": [
-    {
-     "url": "https://www.nordwestmecklenburg.de/de/datei/download/id/9038,1105,1/formular-9038_1105_1.pdf",
-     "text": "Vollmacht zur Vorlage bei der Zulassungsbehörde",
-     "score": 4
-    }
-   ],
-   "fails": 3
+   "state": "ok",
+   "checked": "2026-11-28 03:40:39",
+   "hash": "9f48177be4540cf8b2aec23e8bca6ea5d83574a82f7c94bb79e349017b16b44a",
+   "fails": 0,
+   "kind": "pdf"
   },
   "13075": {
    "url": "https://www.kreis-vg.de/media/custom/2164_5624_1.PDF?1495164311",
    "state": "ok",
-   "checked": "2026-11-27 03:45:53",
+   "checked": "2026-11-28 03:40:41",
    "hash": "32372e4c67312bfe5351cc04f3af359405ab7d2be19885d900f6152d96b319d2",
    "fails": 0,
    "kind": "pdf"
@@ -2535,13 +2532,13 @@
   "13076": {
    "url": "https://www.kreis-lup.de/output/download.php?fid=3378.1859.1.PDF",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:45:54",
+   "checked": "2026-11-28 03:40:42",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "14521": {
    "url": "https://fs.egov.sachsen.de/formserv/findform?shortname=erz_kfz_zul_vollm1&formtecid=2&areashortname=14521",
    "state": "ok",
-   "checked": "2026-11-27 03:45:54",
+   "checked": "2026-11-28 03:40:42",
    "hash": "95306231bdc1821796f2da3674bad093c13d241b599277bec6931e0b8655b333",
    "fails": 0,
    "kind": "pdf"
@@ -2549,7 +2546,7 @@
   "14522": {
    "url": "https://www.landkreis-mittelsachsen.de/fileadmin/Redakteure/Behoerden/1_Geschaeftskreis/Verkehr_Bauen/Kfz_Zulassung/Kfz_SEPA_Formular_neu.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:45:56",
+   "checked": "2026-11-28 03:40:44",
    "hash": "0c6199e916dd09979e05be4535a17ed294e7716917381d39f8d6756ff353c4c9",
    "fails": 0,
    "kind": "pdf"
@@ -2557,7 +2554,7 @@
   "14523": {
    "url": "https://vogtlandkreis.de/media/custom/2752_906_1.PDF?1589432777=",
    "state": "ok",
-   "checked": "2026-11-27 03:45:58",
+   "checked": "2026-11-28 03:40:46",
    "hash": "acb8ec70ee9ff9f4148c128f001ef53e1668dad92492a3727b1beb5e27d69247",
    "fails": 0,
    "kind": "pdf"
@@ -2565,7 +2562,7 @@
   "14524": {
    "url": "https://www.landkreis-zwickau.de/uploads/formulare/VollmachtzurZulassungeinesFahrzeugsdurchDrittenKFZ_3521.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:01",
+   "checked": "2026-11-28 03:40:48",
    "hash": "50b29d97dc3e09341148fd4e55916503e85fcdacf23e2cacedcfbfc38a3c9265",
    "fails": 0,
    "kind": "pdf"
@@ -2573,7 +2570,7 @@
   "14612": {
    "url": "https://www.dresden.de/media/pdf/formulare/3214_Vollmacht_Zulassung_durch_Bevollmaechtigten.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:03",
+   "checked": "2026-11-28 03:40:50",
    "hash": "6f0268a198b357db2e2e29e21dbf3fd173f76300d2b3b2712c512638bb80cd09",
    "fails": 0,
    "kind": "pdf"
@@ -2581,20 +2578,20 @@
   "14625": {
    "url": "https://fs.egov.sachsen.de/formcycle/form/provide/4419/",
    "state": "ok",
-   "checked": "2026-11-27 03:46:05",
+   "checked": "2026-11-28 03:40:52",
    "fails": 0,
    "kind": "html"
   },
   "14626": {
    "url": "https://www.kreis-goerlitz.de/city_info/display/dokument/show.cfm?region_id=349&id=423545",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:46:06",
+   "checked": "2026-11-28 03:40:53",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "14627": {
    "url": "https://www.kreis-meissen.de/loadDocument.phtml?FID=3697.26.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:46:06",
+   "checked": "2026-11-28 03:40:53",
    "hash": "12120986e4271da38cf63f9c004e96908649fdc7bfeac84c90546140d7e47687",
    "fails": 0,
    "kind": "pdf"
@@ -2602,7 +2599,7 @@
   "14628": {
    "url": "https://www.landratsamt-pirna.de/download/3214_Vollmacht_Zulassung_durch_Bevollmaechtigten.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:09",
+   "checked": "2026-11-28 03:40:55",
    "hash": "6f0268a198b357db2e2e29e21dbf3fd173f76300d2b3b2712c512638bb80cd09",
    "fails": 0,
    "kind": "pdf"
@@ -2610,7 +2607,7 @@
   "14713": {
    "url": "https://www.leipzig.de/service-portal/formulare/formular/fahrzeug-bevollmaechtigter/download",
    "state": "ok",
-   "checked": "2026-11-27 03:46:11",
+   "checked": "2026-11-28 03:40:57",
    "hash": "a315ec431403fa9fc7d4954acc9401b51101d86526d903b9295dcb26c7cc40cc",
    "fails": 0,
    "kind": "pdf"
@@ -2618,7 +2615,7 @@
   "14729": {
    "url": "https://www.landkreisleipzig.de/files/user_upload/Anliegen/1_Dezernat_1/Strassenverkehrsamt/SG_Kfz-Zulassung/Zulassung_Neufahrzeug/Vollmacht-1.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:13",
+   "checked": "2026-11-28 03:40:59",
    "hash": "83b619d893786019dc9db364c2cf13ad8a6b64f96fe877bb511a5d701ea03481",
    "fails": 0,
    "kind": "pdf"
@@ -2626,7 +2623,7 @@
   "14730": {
    "url": "https://www.landkreis-nordsachsen.de/files/user_upload/Dezernate_und_Aemter/Dezernat_Ordnung_und_Kommunales/Strassenverkehrsamt/Vollmacht_Zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:15",
+   "checked": "2026-11-28 03:41:00",
    "hash": "e96e67678e3d8c7b7c949dc632e233269849c9c4235cea605777c7344474d401",
    "fails": 0,
    "kind": "pdf"
@@ -2634,7 +2631,7 @@
   "15001": {
    "url": "https://verwaltung.dessau-rosslau.de/fileadmin/Verwaltungsportal_Dessau-Rosslau/Stadt_Buerger/Ordnung_und_Verkehr/KFZ_Zulassung/Vollmacht_Zulassung_Fahrzeug.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:18",
+   "checked": "2026-11-28 03:41:03",
    "hash": "a4838ca2b0af2b677904b529bab9c10437b587b36752c566b8a24748fc1977fb",
    "fails": 0,
    "kind": "pdf"
@@ -2642,13 +2639,13 @@
   "15002": {
    "url": "https://include-st.zfinder.de/IWFileLoader?tsaid_fileId=399492415&",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:46:20",
+   "checked": "2026-11-28 03:41:04",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "15003": {
    "url": "https://www.magdeburg.de/loadDocument.phtml?FID=37.3167.1&Ext=PDF",
    "state": "ok",
-   "checked": "2026-11-27 03:46:21",
+   "checked": "2026-11-28 03:41:04",
    "hash": "e2030dbcf79ecf7f451bee08c0534a78768b082f8a2df3d3419c8aaf8676bd82",
    "fails": 0,
    "kind": "pdf"
@@ -2656,7 +2653,7 @@
   "15081": {
    "url": "https://www.altmarkkreis-salzwedel.de/upload/m61_Vollmacht%20Fahrzeugzulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:23",
+   "checked": "2026-11-28 03:41:07",
    "hash": "c9e63f197e5f35ebd62a9c3c9e5d85542c909e621d442cdb0d473b750b2e2463",
    "fails": 0,
    "kind": "pdf"
@@ -2664,7 +2661,7 @@
   "15082": {
    "url": "https://www.anhalt-bitterfeld.de/de/datei/download/id/9875,1247/sepa_lastschriftmandat_mit_vollmacht_fuer_die_zulassung_eines_fahrzeuges_durch_bevollmaechtigte-abi.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:25",
+   "checked": "2026-11-28 03:41:08",
    "hash": "978e18e9d41a989b7f7aa697a282e0206e11f6b076f2552d9c945c81a6069e0c",
    "fails": 0,
    "kind": "pdf"
@@ -2672,7 +2669,7 @@
   "15083": {
    "url": "https://www.landkreis-boerde.de/fileadmin/Dateiverwaltung_Downloads/Dezernat_3/Strassenverkehrsamt/Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:27",
+   "checked": "2026-11-28 03:41:09",
    "hash": "a4a2e2ed02709d792bc310d8970061a7639dcf3cc9d7e2404ab71fc645549c82",
    "fails": 0,
    "kind": "pdf"
@@ -2680,7 +2677,7 @@
   "15085": {
    "url": "https://www.kreis-hz.de/de/datei/anzeigen/id/11055,1000/sepa_mit_vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:29",
+   "checked": "2026-11-28 03:41:11",
    "hash": "01181450ff31793e1082717d178b5f19ad04012662c73a497ed63aaeb618b8a3",
    "fails": 0,
    "kind": "pdf"
@@ -2688,7 +2685,7 @@
   "15087": {
    "url": "https://www.mansfeldsuedharz.de/fileadmin/mediamanager/SampleFiles/Dokumente/StVA/Vollmacht_Zulassung_KFZ_SEPA-Mandat.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:30",
+   "checked": "2026-11-28 03:41:12",
    "hash": "d9434a6c079443af1631fe5d6fc0aacecbec18dd1af039c374d780ab2080f2b4",
    "fails": 0,
    "kind": "pdf"
@@ -2696,7 +2693,7 @@
   "15089": {
    "url": "https://www.salzlandkreis.de/buergerservice/formulare/32-fachdienst-ordnung-und-strassenverkehr-bereich-strassenverkehr/kfz-zulassung/slk-14-32-1053-sepa-lastschriftmandat-mit-vollmacht-fuer-die-zulassung-eines-fahrzeuges-durch-bevollmaechtigte-zf.pdf?cid=4o4",
    "state": "ok",
-   "checked": "2026-11-27 03:46:32",
+   "checked": "2026-11-28 03:41:14",
    "hash": "a0665d4387e3ac9075b70ddb987198c8678d5beabfa4dc755228eac9511ef516",
    "fails": 0,
    "kind": "pdf"
@@ -2704,7 +2701,7 @@
   "15090": {
    "url": "https://www.landkreis-stendal.de/de/datei/download/id/1217591,1037,1/formular-1217591_1037_1.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:46:35",
+   "checked": "2026-11-28 03:41:15",
    "hash": "093fda39d0ec66287df9ad1ad8d7b4cd992928e1ce7b374b591af261dcacd785",
    "fails": 0,
    "kind": "pdf"
@@ -2712,27 +2709,27 @@
   "15091": {
    "url": "https://include-st.zfinder.de/IWFileLoader?tsaid_fileId=401366061&tsaid_oeid=187093",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:46:37",
+   "checked": "2026-11-28 03:41:17",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "16051": {
    "url": "https://www.erfurt.de/mam/ef/rathaus/buergerservice/form/32/32_02_64.pdf",
    "state": "defekt",
-   "checked": "2026-11-27 03:46:37",
+   "checked": "2026-11-28 03:41:17",
    "error": "URLError: <urlopen error timed out>",
    "candidates": [],
-   "fails": 3
+   "fails": 4
   },
   "16052": {
    "url": "https://cms.gera.de/fileadmin/gera_de/Stadtverwaltung/2000/2400_Ordnungsamt/2450_Kfz-Zulassung/Vollmacht-mit-Einverstaendniserklaerung-Steuerauskunft.pdf",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:47:12",
+   "checked": "2026-11-28 03:41:53",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "16053": {
    "url": "https://service.jena.de/system/files/2018-12/Zulassung%20eines%20Fahrzeuges%20-%20Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:47:13",
+   "checked": "2026-11-28 03:41:53",
    "hash": "a5adc0def7d7b4bbe6dd2d2f91921bd24f50fb838577e43a233767b5559d1a3d",
    "fails": 0,
    "kind": "pdf"
@@ -2740,7 +2737,7 @@
   "16063": {
    "url": "https://www.wartburgkreis.de/fileadmin/wartburgkreis_website/Formulare_Merkblaetter_Regelungen/2025/31/Vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:47:15",
+   "checked": "2026-11-28 03:41:55",
    "hash": "32fd91a5306a73e147b1ec3421981cf02dbe59d8f548982c2793974d60e51e9a",
    "fails": 0,
    "kind": "pdf"
@@ -2748,7 +2745,7 @@
   "16064": {
    "url": "https://www.unstrut-hainich-kreis.de/buergerservice/dokumente-formulare/?tx_reintdownloadmanager_dmfilesearch%5Bdownloaduid%5D=1194&cHash=abe5f3f2a6ddc94f558d6677519bc831",
    "state": "ok",
-   "checked": "2026-11-27 03:47:16",
+   "checked": "2026-11-28 03:41:56",
    "hash": "3309978aee86281d183f4a15d0db6bf47ad2be86da7fe60daff8c708aac44ca4",
    "fails": 0,
    "kind": "pdf"
@@ -2756,7 +2753,7 @@
   "16065": {
    "url": "https://www.kyffhaeuser.de/wp-content/uploads/vollmacht-kfz-zulassung.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:47:19",
+   "checked": "2026-11-28 03:41:59",
    "hash": "aa7c8dd4cb989f35a233c5d842acaf9442779498773f62b06b1cd83131b0c26b",
    "fails": 0,
    "kind": "pdf"
@@ -2764,16 +2761,16 @@
   "16066": {
    "url": "https://thformular.thueringen.de/thueform/cfs/eject/pdf/8.pdf?FORMUID=STVO-118-DE-FL&MANDANTUID=ZUFIZENTRAL&INFODIENSTE_FORM_ID=650990&INFODIENSTE_OE_ID=766044",
    "state": "geaendert",
-   "checked": "2026-11-27 03:47:31",
-   "changed": "2026-11-27 03:47:35",
-   "hash": "3e7c5feae312807a82847b4bf967542a938b344cabba382e8068879d157b0e18",
+   "checked": "2026-11-28 03:42:02",
+   "changed": "2026-11-28 03:42:05",
+   "hash": "3493e9cbf8fc22bd9cc2e2a3ca842b6bc430d872b4ac8683e788d7c882450797",
    "fails": 0,
    "kind": "pdf"
   },
   "16067": {
    "url": "https://www.landkreis-gotha.de/fileadmin/user_upload/pdf-Dateien/dokumente/kfz/vollmacht.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:47:35",
+   "checked": "2026-11-28 03:42:05",
    "hash": "6f68211a279dbaec19c6f76f5d4a818b5f137b159a10ce0cf2cd6bd34da2eb7b",
    "fails": 0,
    "kind": "pdf"
@@ -2781,7 +2778,7 @@
   "16069": {
    "url": "https://www.landkreis-hildburghausen.de/media/custom/2902_7685_1.PDF?1769432439",
    "state": "ok",
-   "checked": "2026-11-27 03:47:36",
+   "checked": "2026-11-28 03:42:07",
    "hash": "9de858f3d09c189a993ba0746f893cf6cf056b9a8cd0448b9b51f0356d500ca5",
    "fails": 0,
    "kind": "pdf"
@@ -2789,13 +2786,13 @@
   "16070": {
    "url": "https://www.ilm-kreis.de/output/download.php?file=%2Fmedia%2Fcustom%2F1626_2252_1.PDF%3F1457337802&fn=amt_vka_10",
    "state": "nicht_pruefbar",
-   "checked": "2026-11-27 03:47:39",
+   "checked": "2026-11-28 03:42:09",
    "error": "Website erlaubt keinen automatischen Abruf (robots.txt)"
   },
   "16072": {
    "url": "https://www.kreis-sonneberg.de/buergerservice-views/leistungen/THU:entry:269092-VLR/fahrzeugzulassung-ein-fahrzeug-auf-dieselbe-halterin-oder-denselben-halter-wiederzulassen/",
    "state": "ok",
-   "checked": "2026-11-27 03:47:40",
+   "checked": "2026-11-28 03:42:10",
    "fails": 0,
    "kind": "html",
    "seite_links": 0
@@ -2803,7 +2800,7 @@
   "16073": {
    "url": "https://kreis-slf.de/PDF/Vollmacht_Zulassungsstelle_Saalfeld_Rudolstadt.PDF?ObjSvrID=4147&ObjID=121&ObjLa=1&Ext=PDF&WTR=1&_ts=1760426179",
    "state": "ok",
-   "checked": "2026-11-27 03:47:44",
+   "checked": "2026-11-28 03:42:15",
    "hash": "7c72fa7ada35f68d3de4963b4a9da6b3a7f593dd562e31f5fbbf98868d5d8a47",
    "fails": 0,
    "kind": "pdf"
@@ -2811,7 +2808,7 @@
   "16076": {
    "url": "https://www.landkreis-greiz.de/fileadmin/Anwenderdateien/Abteilung_III/Ordnungsamt/Strassenverkehrsbeh%C3%B6rde/Vollmacht_9_16.pdf",
    "state": "ok",
-   "checked": "2026-11-27 03:47:45",
+   "checked": "2026-11-28 03:42:17",
    "hash": "9a0546b31e9987dc4a4b5c0069ad76731eefde743d73cfa2f4ed70e81bd269fc",
    "fails": 0,
    "kind": "pdf"
@@ -2819,9 +2816,9 @@
   "16077": {
    "url": "https://thformular.thueringen.de/thueform/cfs/eject/pdf/40.pdf?MANDANTID=18&FORMUID=STVO-118-DE-FL",
    "state": "geaendert",
-   "checked": "2026-11-27 03:47:47",
-   "changed": "2026-11-27 03:47:48",
-   "hash": "0c7123b11599dafc64451fd1fac296e067dfbb574d63c26c3e3ba42757e0377f",
+   "checked": "2026-11-28 03:42:18",
+   "changed": "2026-11-28 03:42:19",
+   "hash": "dfda41ae800c37c8e11bf81d117b69953af729badddd7007e11eb09ad83bbf83",
    "fails": 0,
    "kind": "pdf"
   }
